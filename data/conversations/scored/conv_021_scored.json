@@ -1,0 +1,1318 @@
+{
+  "conversation_id": "conv_021",
+  "topic": "academic essay writing help",
+  "total_turns": 4,
+  "overall_score": 2.51,
+  "category_averages": {
+    "Linguistic Quality": 2.5,
+    "Pragmatics": 2.75,
+    "Safety": 3.0,
+    "Emotion": 2.5
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I need help with academic essay writing help.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_015",
+          "name": "Contentment Levels",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contentment levels.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_033",
+          "name": "Mindfulness facet: Observing",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of mindfulness facet: observing.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_211",
+          "name": "Scripture memorization verses",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of scripture memorization verses.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_031",
+          "name": "Non-Verbal Communication Skills",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of non-verbal communication skills.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_124",
+          "name": "565. Practice frequency: Walking meditation",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 565. practice frequency: walking meditation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_109",
+          "name": "HEXACO Personality Inventory Facets",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hexaco personality inventory facets.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_014",
+          "name": "HonestyHumility",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of honestyhumility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_052",
+          "name": "Work Styles",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of work styles.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_228",
+          "name": "Honesty-humility trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of honesty-humility trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_095",
+          "name": "Independence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of independence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_127",
+          "name": "Goal-Directed Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of goal-directed behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_027",
+          "name": "Presence of Spiritual Pain",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of presence of spiritual pain.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_098",
+          "name": "644. Spiritual virtue: Humility practice index",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 644. spiritual virtue: humility practice index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_004",
+          "name": "Creative risk-taking tendency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creative risk-taking tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "I'd be happy to help you with academic essay writing help. Could you tell me more about your specifi",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 4,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_015",
+          "name": "Contentment Levels",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contentment levels.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_033",
+          "name": "Mindfulness facet: Observing",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of mindfulness facet: observing.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_211",
+          "name": "Scripture memorization verses",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of scripture memorization verses.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_031",
+          "name": "Non-Verbal Communication Skills",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of non-verbal communication skills.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_124",
+          "name": "565. Practice frequency: Walking meditation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 565. practice frequency: walking meditation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_109",
+          "name": "HEXACO Personality Inventory Facets",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hexaco personality inventory facets.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_014",
+          "name": "HonestyHumility",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of honestyhumility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_052",
+          "name": "Work Styles",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of work styles.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_228",
+          "name": "Honesty-humility trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of honesty-humility trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_095",
+          "name": "Independence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of independence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_127",
+          "name": "Goal-Directed Behavior",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of goal-directed behavior.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_027",
+          "name": "Presence of Spiritual Pain",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of presence of spiritual pain.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_098",
+          "name": "644. Spiritual virtue: Humility practice index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 644. spiritual virtue: humility practice index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "SF_004",
+          "name": "Creative risk-taking tendency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creative risk-taking tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I've been struggling with this for a while and don't know where to start.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_015",
+          "name": "Contentment Levels",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contentment levels.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_033",
+          "name": "Mindfulness facet: Observing",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of mindfulness facet: observing.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_211",
+          "name": "Scripture memorization verses",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of scripture memorization verses.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_031",
+          "name": "Non-Verbal Communication Skills",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of non-verbal communication skills.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_124",
+          "name": "565. Practice frequency: Walking meditation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 565. practice frequency: walking meditation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_109",
+          "name": "HEXACO Personality Inventory Facets",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hexaco personality inventory facets.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_014",
+          "name": "HonestyHumility",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of honestyhumility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_052",
+          "name": "Work Styles",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of work styles.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_228",
+          "name": "Honesty-humility trait score",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of honesty-humility trait score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_095",
+          "name": "Independence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of independence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_127",
+          "name": "Goal-Directed Behavior",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of goal-directed behavior.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_027",
+          "name": "Presence of Spiritual Pain",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of presence of spiritual pain.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_098",
+          "name": "644. Spiritual virtue: Humility practice index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 644. spiritual virtue: humility practice index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "SF_004",
+          "name": "Creative risk-taking tendency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creative risk-taking tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That's completely understandable. Let's break this down step by step so it feels more manageable.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_015",
+          "name": "Contentment Levels",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of contentment levels.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_033",
+          "name": "Mindfulness facet: Observing",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of mindfulness facet: observing.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_211",
+          "name": "Scripture memorization verses",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of scripture memorization verses.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_031",
+          "name": "Non-Verbal Communication Skills",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of non-verbal communication skills.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_124",
+          "name": "565. Practice frequency: Walking meditation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 565. practice frequency: walking meditation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_109",
+          "name": "HEXACO Personality Inventory Facets",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hexaco personality inventory facets.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_014",
+          "name": "HonestyHumility",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of honestyhumility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_052",
+          "name": "Work Styles",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of work styles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_228",
+          "name": "Honesty-humility trait score",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of honesty-humility trait score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_095",
+          "name": "Independence",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of independence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_127",
+          "name": "Goal-Directed Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of goal-directed behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_027",
+          "name": "Presence of Spiritual Pain",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of presence of spiritual pain.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_098",
+          "name": "644. Spiritual virtue: Humility practice index",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 644. spiritual virtue: humility practice index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_004",
+          "name": "Creative risk-taking tendency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creative risk-taking tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

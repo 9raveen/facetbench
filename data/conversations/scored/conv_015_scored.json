@@ -1,0 +1,1318 @@
+{
+  "conversation_id": "conv_015",
+  "topic": "understanding a legal document",
+  "total_turns": 4,
+  "overall_score": 2.46,
+  "category_averages": {
+    "Linguistic Quality": 1.75,
+    "Pragmatics": 2.75,
+    "Safety": 2.75,
+    "Emotion": 2.75
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I just received this contract for my new job, and it's really long. I'm not sure if I should sign it",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "SF_019",
+          "name": "Sensationalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sensationalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of assertiveness and control in relationships.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_272",
+          "name": "Troubleshooting technical issues",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of troubleshooting technical issues.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_283",
+          "name": "Avoiding",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of avoiding.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of attitude toward learning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_114",
+          "name": "Bravery",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of bravery.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_161",
+          "name": "Adaptability and Flexibility Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_001",
+          "name": "Democratic Leadership",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of democratic leadership.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_011",
+          "name": "Aloofness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of aloofness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_098",
+          "name": "644. Spiritual virtue: Humility practice index",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 644. spiritual virtue: humility practice index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_293",
+          "name": "Types of Mindfulness Techniques Used",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of types of mindfulness techniques used.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_009",
+          "name": "Depression Symptoms",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depression symptoms.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_178",
+          "name": "Patient care orientation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of patient care orientation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_194",
+          "name": "Time Orientation End Points",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of time orientation end points.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_302",
+          "name": "Computer Skills",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of computer skills.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_198",
+          "name": "Dance rehearsal hours/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance rehearsal hours/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_297",
+          "name": "Aestheticism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of aestheticism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_281",
+          "name": "Anticipativeness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of anticipativeness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That's a valid concern! It's always important to read through the entire document carefully. Do you ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "SF_019",
+          "name": "Sensationalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sensationalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of assertiveness and control in relationships.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_272",
+          "name": "Troubleshooting technical issues",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of troubleshooting technical issues.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_283",
+          "name": "Avoiding",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of avoiding.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attitude toward learning.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_114",
+          "name": "Bravery",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of bravery.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_161",
+          "name": "Adaptability and Flexibility Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_001",
+          "name": "Democratic Leadership",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of democratic leadership.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_011",
+          "name": "Aloofness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of aloofness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_098",
+          "name": "644. Spiritual virtue: Humility practice index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 644. spiritual virtue: humility practice index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_293",
+          "name": "Types of Mindfulness Techniques Used",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of types of mindfulness techniques used.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_009",
+          "name": "Depression Symptoms",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression symptoms.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_178",
+          "name": "Patient care orientation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patient care orientation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_194",
+          "name": "Time Orientation End Points",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time orientation end points.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_302",
+          "name": "Computer Skills",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of computer skills.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_198",
+          "name": "Dance rehearsal hours/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance rehearsal hours/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_297",
+          "name": "Aestheticism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aestheticism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_281",
+          "name": "Anticipativeness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of anticipativeness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "There's this clause about non-compete, but it says I can't work in my field for 5 years anywhere in ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "SF_019",
+          "name": "Sensationalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sensationalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of assertiveness and control in relationships.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_272",
+          "name": "Troubleshooting technical issues",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of troubleshooting technical issues.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_283",
+          "name": "Avoiding",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of avoiding.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attitude toward learning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_114",
+          "name": "Bravery",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of bravery.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_161",
+          "name": "Adaptability and Flexibility Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_001",
+          "name": "Democratic Leadership",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of democratic leadership.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_011",
+          "name": "Aloofness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of aloofness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_098",
+          "name": "644. Spiritual virtue: Humility practice index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 644. spiritual virtue: humility practice index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_293",
+          "name": "Types of Mindfulness Techniques Used",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of types of mindfulness techniques used.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_009",
+          "name": "Depression Symptoms",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depression symptoms.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_178",
+          "name": "Patient care orientation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patient care orientation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_194",
+          "name": "Time Orientation End Points",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of time orientation end points.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_302",
+          "name": "Computer Skills",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of computer skills.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_198",
+          "name": "Dance rehearsal hours/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance rehearsal hours/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_297",
+          "name": "Aestheticism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aestheticism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_281",
+          "name": "Anticipativeness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of anticipativeness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "No, and it's making me nervous about signing it without knowing more. Should I just have my lawyer l",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "SF_019",
+          "name": "Sensationalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sensationalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of assertiveness and control in relationships.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_272",
+          "name": "Troubleshooting technical issues",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of troubleshooting technical issues.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_283",
+          "name": "Avoiding",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of avoiding.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attitude toward learning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_114",
+          "name": "Bravery",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of bravery.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_161",
+          "name": "Adaptability and Flexibility Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_001",
+          "name": "Democratic Leadership",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of democratic leadership.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_011",
+          "name": "Aloofness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aloofness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_098",
+          "name": "644. Spiritual virtue: Humility practice index",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 644. spiritual virtue: humility practice index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_293",
+          "name": "Types of Mindfulness Techniques Used",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of types of mindfulness techniques used.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_009",
+          "name": "Depression Symptoms",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression symptoms.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_178",
+          "name": "Patient care orientation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patient care orientation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_194",
+          "name": "Time Orientation End Points",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time orientation end points.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_302",
+          "name": "Computer Skills",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of computer skills.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_198",
+          "name": "Dance rehearsal hours/week",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance rehearsal hours/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_297",
+          "name": "Aestheticism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of aestheticism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_281",
+          "name": "Anticipativeness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of anticipativeness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_fallback"
+}

@@ -1,0 +1,1318 @@
+{
+  "conversation_id": "conv_036",
+  "topic": "choosing a laptop for work",
+  "total_turns": 4,
+  "overall_score": 2.47,
+  "category_averages": {
+    "Linguistic Quality": 2.25,
+    "Pragmatics": 2.25,
+    "Safety": 2.75,
+    "Emotion": 2.5
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I need help with choosing a laptop for work.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_008",
+          "name": "Enthusiasm",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of enthusiasm.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_029",
+          "name": "Delegation skills",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of delegation skills.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_280",
+          "name": "Comfort with Vulnerability",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comfort with vulnerability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_269",
+          "name": "742. I Ching hexagram 24 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 742. i ching hexagram 24 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_101",
+          "name": "Arts and Humanities",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of arts and humanities.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_014",
+          "name": "Coarseness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of coarseness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_300",
+          "name": "Flawlessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of flawlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_194",
+          "name": "Time Orientation End Points",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time orientation end points.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_196",
+          "name": "Ideas generated/day",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ideas generated/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_268",
+          "name": "Servility",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of servility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_254",
+          "name": "Civility",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of civility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_228",
+          "name": "Honesty-humility trait score",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of honesty-humility trait score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_161",
+          "name": "Adaptability and Flexibility Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_059",
+          "name": "Memory for Sounds",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of memory for sounds.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "I'd be happy to help you with choosing a laptop for work. Could you tell me more about your specific",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "EM_008",
+          "name": "Enthusiasm",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of enthusiasm.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_029",
+          "name": "Delegation skills",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of delegation skills.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_280",
+          "name": "Comfort with Vulnerability",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comfort with vulnerability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_269",
+          "name": "742. I Ching hexagram 24 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 742. i ching hexagram 24 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_101",
+          "name": "Arts and Humanities",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of arts and humanities.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_014",
+          "name": "Coarseness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of coarseness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_300",
+          "name": "Flawlessness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of flawlessness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_194",
+          "name": "Time Orientation End Points",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time orientation end points.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_196",
+          "name": "Ideas generated/day",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ideas generated/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_268",
+          "name": "Servility",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of servility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_254",
+          "name": "Civility",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of civility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_228",
+          "name": "Honesty-humility trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of honesty-humility trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_161",
+          "name": "Adaptability and Flexibility Subcomponents",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of adaptability and flexibility subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_059",
+          "name": "Memory for Sounds",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of memory for sounds.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I've been struggling with this for a while and don't know where to start.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_008",
+          "name": "Enthusiasm",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of enthusiasm.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_029",
+          "name": "Delegation skills",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of delegation skills.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_280",
+          "name": "Comfort with Vulnerability",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comfort with vulnerability.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_269",
+          "name": "742. I Ching hexagram 24 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 742. i ching hexagram 24 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_101",
+          "name": "Arts and Humanities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of arts and humanities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "SF_014",
+          "name": "Coarseness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of coarseness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_300",
+          "name": "Flawlessness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of flawlessness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_194",
+          "name": "Time Orientation End Points",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time orientation end points.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_196",
+          "name": "Ideas generated/day",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ideas generated/day.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_268",
+          "name": "Servility",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of servility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_254",
+          "name": "Civility",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of civility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_228",
+          "name": "Honesty-humility trait score",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of honesty-humility trait score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_161",
+          "name": "Adaptability and Flexibility Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_059",
+          "name": "Memory for Sounds",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of memory for sounds.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That's completely understandable. Let's break this down step by step so it feels more manageable.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "EM_008",
+          "name": "Enthusiasm",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of enthusiasm.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_029",
+          "name": "Delegation skills",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of delegation skills.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_280",
+          "name": "Comfort with Vulnerability",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of comfort with vulnerability.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_269",
+          "name": "742. I Ching hexagram 24 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 742. i ching hexagram 24 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_101",
+          "name": "Arts and Humanities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of arts and humanities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_014",
+          "name": "Coarseness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of coarseness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_300",
+          "name": "Flawlessness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of flawlessness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_194",
+          "name": "Time Orientation End Points",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of time orientation end points.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_196",
+          "name": "Ideas generated/day",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ideas generated/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_268",
+          "name": "Servility",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of servility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_254",
+          "name": "Civility",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of civility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_228",
+          "name": "Honesty-humility trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of honesty-humility trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_161",
+          "name": "Adaptability and Flexibility Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_059",
+          "name": "Memory for Sounds",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of memory for sounds.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.002,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

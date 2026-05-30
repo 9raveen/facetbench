@@ -1,1 +1,1318 @@
-{"conversation_id": "conv_005", "error": "'score'"}
+{
+  "conversation_id": "conv_005",
+  "topic": "relationship conflict resolution",
+  "total_turns": 4,
+  "overall_score": 2.53,
+  "category_averages": {
+    "Linguistic Quality": 1.5,
+    "Pragmatics": 2.25,
+    "Safety": 3.25,
+    "Emotion": 2.75
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I need help with relationship conflict resolution.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_174",
+          "name": "723. I Ching hexagram 5 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 723. i ching hexagram 5 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_008",
+          "name": "Collaboration",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of collaboration.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_296",
+          "name": "Pet-enrichment activities count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pet-enrichment activities count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_011",
+          "name": "Aloofness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of aloofness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_109",
+          "name": "HEXACO Personality Inventory Facets",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hexaco personality inventory facets.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_018",
+          "name": "Compassion",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_021",
+          "name": "Depression (DEP)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression (dep).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_172",
+          "name": "Psychological construct: Resilience-Trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: resilience-trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_264",
+          "name": "Psychological construct: Perfectionistic Strivings",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: perfectionistic strivings.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_275",
+          "name": "627. Sacred text engagement: Quran surahs memorized",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 627. sacred text engagement: quran surahs memorized.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_040",
+          "name": "Inattentiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of inattentiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_178",
+          "name": "Patient care orientation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of patient care orientation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "I'd be happy to help you with relationship conflict resolution. Could you tell me more about your sp",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 4,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_174",
+          "name": "723. I Ching hexagram 5 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 723. i ching hexagram 5 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_008",
+          "name": "Collaboration",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of collaboration.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_296",
+          "name": "Pet-enrichment activities count",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of pet-enrichment activities count.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_011",
+          "name": "Aloofness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aloofness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_109",
+          "name": "HEXACO Personality Inventory Facets",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of hexaco personality inventory facets.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_018",
+          "name": "Compassion",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "EM_021",
+          "name": "Depression (DEP)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression (dep).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_172",
+          "name": "Psychological construct: Resilience-Trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: resilience-trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_264",
+          "name": "Psychological construct: Perfectionistic Strivings",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: perfectionistic strivings.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_275",
+          "name": "627. Sacred text engagement: Quran surahs memorized",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 627. sacred text engagement: quran surahs memorized.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_040",
+          "name": "Inattentiveness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of inattentiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_178",
+          "name": "Patient care orientation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patient care orientation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I've been struggling with this for a while and don't know where to start.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_174",
+          "name": "723. I Ching hexagram 5 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 723. i ching hexagram 5 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_008",
+          "name": "Collaboration",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of collaboration.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_296",
+          "name": "Pet-enrichment activities count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pet-enrichment activities count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_011",
+          "name": "Aloofness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aloofness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_109",
+          "name": "HEXACO Personality Inventory Facets",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of hexaco personality inventory facets.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_018",
+          "name": "Compassion",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compassion.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_021",
+          "name": "Depression (DEP)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression (dep).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_172",
+          "name": "Psychological construct: Resilience-Trait score",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: resilience-trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_264",
+          "name": "Psychological construct: Perfectionistic Strivings",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: perfectionistic strivings.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_275",
+          "name": "627. Sacred text engagement: Quran surahs memorized",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 627. sacred text engagement: quran surahs memorized.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_040",
+          "name": "Inattentiveness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of inattentiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 4,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_178",
+          "name": "Patient care orientation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patient care orientation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That's completely understandable. Let's break this down step by step so it feels more manageable.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_174",
+          "name": "723. I Ching hexagram 5 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 723. i ching hexagram 5 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_008",
+          "name": "Collaboration",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of collaboration.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_296",
+          "name": "Pet-enrichment activities count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pet-enrichment activities count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_011",
+          "name": "Aloofness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aloofness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_109",
+          "name": "HEXACO Personality Inventory Facets",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hexaco personality inventory facets.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_018",
+          "name": "Compassion",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compassion.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "EM_021",
+          "name": "Depression (DEP)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depression (dep).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_172",
+          "name": "Psychological construct: Resilience-Trait score",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: resilience-trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_264",
+          "name": "Psychological construct: Perfectionistic Strivings",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: perfectionistic strivings.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_275",
+          "name": "627. Sacred text engagement: Quran surahs memorized",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 627. sacred text engagement: quran surahs memorized.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_040",
+          "name": "Inattentiveness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of inattentiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_178",
+          "name": "Patient care orientation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patient care orientation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_fallback"
+}

@@ -1,0 +1,1318 @@
+{
+  "conversation_id": "conv_049",
+  "topic": "learning to drive advice",
+  "total_turns": 4,
+  "overall_score": 2.51,
+  "category_averages": {
+    "Linguistic Quality": 2.5,
+    "Pragmatics": 1.75,
+    "Safety": 3.25,
+    "Emotion": 2.0
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I'm really nervous about learning to drive. I've never been in a car by myself before and the though",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_261",
+          "name": "Learning through movement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of learning through movement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_172",
+          "name": "Psychological construct: Resilience-Trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: resilience-trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_046",
+          "name": "Brevity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of brevity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_298",
+          "name": "Mental Arithmetic Speed",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of mental arithmetic speed.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_198",
+          "name": "Dance rehearsal hours/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance rehearsal hours/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_148",
+          "name": "Sentence Structure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sentence structure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_026",
+          "name": "Anatomy knowledge",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of anatomy knowledge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of eco-tourism trips.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_075",
+          "name": "Intrinsic Motivation",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intrinsic motivation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_095",
+          "name": "Independence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of independence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_113",
+          "name": "692. Astrology: Rising sign is Scorpio",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 692. astrology: rising sign is scorpio.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_166",
+          "name": "Regularity of Self-Reflection",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of regularity of self-reflection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_258",
+          "name": "Time outdoors/day (h)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time outdoors/day (h).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_066",
+          "name": "Critical reasoning",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of critical reasoning.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_071",
+          "name": "Organized lifestyle",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of organized lifestyle.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "It's completely normal to feel that way! Driving can be intimidating at first, but with practice, yo",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_261",
+          "name": "Learning through movement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of learning through movement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_172",
+          "name": "Psychological construct: Resilience-Trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: resilience-trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_046",
+          "name": "Brevity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of brevity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_298",
+          "name": "Mental Arithmetic Speed",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of mental arithmetic speed.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_198",
+          "name": "Dance rehearsal hours/week",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance rehearsal hours/week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_148",
+          "name": "Sentence Structure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sentence structure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_026",
+          "name": "Anatomy knowledge",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of anatomy knowledge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eco-tourism trips.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_075",
+          "name": "Intrinsic Motivation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intrinsic motivation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_095",
+          "name": "Independence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of independence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_113",
+          "name": "692. Astrology: Rising sign is Scorpio",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 692. astrology: rising sign is scorpio.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_166",
+          "name": "Regularity of Self-Reflection",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of regularity of self-reflection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_258",
+          "name": "Time outdoors/day (h)",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of time outdoors/day (h).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_066",
+          "name": "Critical reasoning",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of critical reasoning.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_071",
+          "name": "Organized lifestyle",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of organized lifestyle.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "Yeah, my dad said he'd help me out. But I'm still worried about making mistakes and feeling like a b",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_261",
+          "name": "Learning through movement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of learning through movement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_172",
+          "name": "Psychological construct: Resilience-Trait score",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: resilience-trait score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_046",
+          "name": "Brevity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of brevity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_298",
+          "name": "Mental Arithmetic Speed",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of mental arithmetic speed.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_198",
+          "name": "Dance rehearsal hours/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance rehearsal hours/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_148",
+          "name": "Sentence Structure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sentence structure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_026",
+          "name": "Anatomy knowledge",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of anatomy knowledge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eco-tourism trips.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_075",
+          "name": "Intrinsic Motivation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of intrinsic motivation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_095",
+          "name": "Independence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of independence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_113",
+          "name": "692. Astrology: Rising sign is Scorpio",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 692. astrology: rising sign is scorpio.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_166",
+          "name": "Regularity of Self-Reflection",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of regularity of self-reflection.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_258",
+          "name": "Time outdoors/day (h)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time outdoors/day (h).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_066",
+          "name": "Critical reasoning",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of critical reasoning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_071",
+          "name": "Organized lifestyle",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of organized lifestyle.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That's totally understandable! Just remember that everyone starts as a beginner. Focus on the basics",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_261",
+          "name": "Learning through movement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of learning through movement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_172",
+          "name": "Psychological construct: Resilience-Trait score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: resilience-trait score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_046",
+          "name": "Brevity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of brevity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_298",
+          "name": "Mental Arithmetic Speed",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of mental arithmetic speed.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_198",
+          "name": "Dance rehearsal hours/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance rehearsal hours/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_148",
+          "name": "Sentence Structure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sentence structure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_215",
+          "name": "Individuality",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of individuality.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_026",
+          "name": "Anatomy knowledge",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of anatomy knowledge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eco-tourism trips.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_075",
+          "name": "Intrinsic Motivation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intrinsic motivation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_095",
+          "name": "Independence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of independence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_113",
+          "name": "692. Astrology: Rising sign is Scorpio",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 692. astrology: rising sign is scorpio.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_166",
+          "name": "Regularity of Self-Reflection",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of regularity of self-reflection.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_258",
+          "name": "Time outdoors/day (h)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time outdoors/day (h).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_066",
+          "name": "Critical reasoning",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of critical reasoning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_071",
+          "name": "Organized lifestyle",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of organized lifestyle.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

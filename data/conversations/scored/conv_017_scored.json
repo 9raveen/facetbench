@@ -1,0 +1,1968 @@
+{
+  "conversation_id": "conv_017",
+  "topic": "parenting advice",
+  "total_turns": 6,
+  "overall_score": 2.51,
+  "category_averages": {
+    "Linguistic Quality": 1.67,
+    "Pragmatics": 2.0,
+    "Safety": 3.17,
+    "Emotion": 2.33
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I'm really struggling with my teenager. They're always on their phone and seem to be ignoring me.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_303",
+          "name": "899. Jewish spiritual metric: Shabbat candle-lighting consistency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 899. jewish spiritual metric: shabbat candle-lighting consistency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_223",
+          "name": "Psychological construct: Eye-Contact avoidance score",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: eye-contact avoidance score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_015",
+          "name": "Harmfulness",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of harmfulness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_202",
+          "name": "Disagreeableness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of disagreeableness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_106",
+          "name": "Serotonin transporter availability",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of serotonin transporter availability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_130",
+          "name": "Activator: Turning thoughts into action",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of activator: turning thoughts into action.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_212",
+          "name": "Conventional",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of conventional.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_171",
+          "name": "Significance: Desire to make an impact",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of significance: desire to make an impact.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_018",
+          "name": "Language use",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of language use.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_306",
+          "name": "Peacefulness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of peacefulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_236",
+          "name": "Learning Style",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of learning style.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_037",
+          "name": "Decision-Making Confidence",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making confidence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_029",
+          "name": "Fearfulness: Fear of physical dangers",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of fearfulness: fear of physical dangers.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That can definitely feel frustrating. Have you tried setting some ground rules about screen time? It",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_303",
+          "name": "899. Jewish spiritual metric: Shabbat candle-lighting consistency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 899. jewish spiritual metric: shabbat candle-lighting consistency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_223",
+          "name": "Psychological construct: Eye-Contact avoidance score",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: eye-contact avoidance score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_015",
+          "name": "Harmfulness",
+          "score": 4,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of harmfulness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_202",
+          "name": "Disagreeableness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of disagreeableness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_106",
+          "name": "Serotonin transporter availability",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of serotonin transporter availability.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_130",
+          "name": "Activator: Turning thoughts into action",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of activator: turning thoughts into action.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_212",
+          "name": "Conventional",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conventional.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_171",
+          "name": "Significance: Desire to make an impact",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of significance: desire to make an impact.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_018",
+          "name": "Language use",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of language use.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_306",
+          "name": "Peacefulness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of peacefulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_236",
+          "name": "Learning Style",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of learning style.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_037",
+          "name": "Decision-Making Confidence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making confidence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_029",
+          "name": "Fearfulness: Fear of physical dangers",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of fearfulness: fear of physical dangers.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I've tried that, but it just seems like I'm not being heard. They get really defensive.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_303",
+          "name": "899. Jewish spiritual metric: Shabbat candle-lighting consistency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 899. jewish spiritual metric: shabbat candle-lighting consistency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_223",
+          "name": "Psychological construct: Eye-Contact avoidance score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: eye-contact avoidance score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_015",
+          "name": "Harmfulness",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of harmfulness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_202",
+          "name": "Disagreeableness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of disagreeableness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_106",
+          "name": "Serotonin transporter availability",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of serotonin transporter availability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_130",
+          "name": "Activator: Turning thoughts into action",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of activator: turning thoughts into action.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_212",
+          "name": "Conventional",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of conventional.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_171",
+          "name": "Significance: Desire to make an impact",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of significance: desire to make an impact.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_018",
+          "name": "Language use",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of language use.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_306",
+          "name": "Peacefulness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of peacefulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_236",
+          "name": "Learning Style",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of learning style.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_037",
+          "name": "Decision-Making Confidence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making confidence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_029",
+          "name": "Fearfulness: Fear of physical dangers",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of fearfulness: fear of physical dangers.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "It's understandable to feel frustrated when your efforts aren't working. Maybe try having an open co",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 1,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_303",
+          "name": "899. Jewish spiritual metric: Shabbat candle-lighting consistency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 899. jewish spiritual metric: shabbat candle-lighting consistency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_223",
+          "name": "Psychological construct: Eye-Contact avoidance score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: eye-contact avoidance score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_015",
+          "name": "Harmfulness",
+          "score": 4,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of harmfulness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_202",
+          "name": "Disagreeableness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of disagreeableness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_106",
+          "name": "Serotonin transporter availability",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of serotonin transporter availability.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_130",
+          "name": "Activator: Turning thoughts into action",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of activator: turning thoughts into action.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_212",
+          "name": "Conventional",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conventional.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_171",
+          "name": "Significance: Desire to make an impact",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of significance: desire to make an impact.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_018",
+          "name": "Language use",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of language use.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_306",
+          "name": "Peacefulness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of peacefulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_236",
+          "name": "Learning Style",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of learning style.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_037",
+          "name": "Decision-Making Confidence",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making confidence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_029",
+          "name": "Fearfulness: Fear of physical dangers",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of fearfulness: fear of physical dangers.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "That sounds like a good idea, but I'm not sure how to approach the conversation without it turning i",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_303",
+          "name": "899. Jewish spiritual metric: Shabbat candle-lighting consistency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 899. jewish spiritual metric: shabbat candle-lighting consistency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_223",
+          "name": "Psychological construct: Eye-Contact avoidance score",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: eye-contact avoidance score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_015",
+          "name": "Harmfulness",
+          "score": 4,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of harmfulness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_202",
+          "name": "Disagreeableness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of disagreeableness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_106",
+          "name": "Serotonin transporter availability",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of serotonin transporter availability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_130",
+          "name": "Activator: Turning thoughts into action",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of activator: turning thoughts into action.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_212",
+          "name": "Conventional",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conventional.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_171",
+          "name": "Significance: Desire to make an impact",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of significance: desire to make an impact.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_018",
+          "name": "Language use",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of language use.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_306",
+          "name": "Peacefulness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of peacefulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_236",
+          "name": "Learning Style",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of learning style.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_037",
+          "name": "Decision-Making Confidence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making confidence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_029",
+          "name": "Fearfulness: Fear of physical dangers",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of fearfulness: fear of physical dangers.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 5,
+      "speaker": "assistant",
+      "text_preview": "Starting with 'I' statements can help keep the tone positive. For example, you could say something l",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 823. buddhist practice: eightfold path \u2013 right intention level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_303",
+          "name": "899. Jewish spiritual metric: Shabbat candle-lighting consistency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 899. jewish spiritual metric: shabbat candle-lighting consistency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_223",
+          "name": "Psychological construct: Eye-Contact avoidance score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: eye-contact avoidance score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_015",
+          "name": "Harmfulness",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of harmfulness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_202",
+          "name": "Disagreeableness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of disagreeableness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_106",
+          "name": "Serotonin transporter availability",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of serotonin transporter availability.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_107",
+          "name": "Contribution to Group Goals",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of contribution to group goals.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of creativity in solutions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_130",
+          "name": "Activator: Turning thoughts into action",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of activator: turning thoughts into action.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_212",
+          "name": "Conventional",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conventional.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_111",
+          "name": "Input",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of input.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_171",
+          "name": "Significance: Desire to make an impact",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of significance: desire to make an impact.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_018",
+          "name": "Language use",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of language use.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_306",
+          "name": "Peacefulness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of peacefulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_236",
+          "name": "Learning Style",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of learning style.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_037",
+          "name": "Decision-Making Confidence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making confidence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_029",
+          "name": "Fearfulness: Fear of physical dangers",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of fearfulness: fear of physical dangers.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

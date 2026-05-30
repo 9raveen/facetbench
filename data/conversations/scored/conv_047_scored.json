@@ -1,0 +1,1318 @@
+{
+  "conversation_id": "conv_047",
+  "topic": "environmental activism discussion",
+  "total_turns": 4,
+  "overall_score": 2.48,
+  "category_averages": {
+    "Linguistic Quality": 2.25,
+    "Pragmatics": 2.0,
+    "Safety": 3.0,
+    "Emotion": 2.25
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I feel really passionate about environmental issues, but I'm not sure how to get involved. Any advic",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_275",
+          "name": "627. Sacred text engagement: Quran surahs memorized",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 627. sacred text engagement: quran surahs memorized.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of eco-tourism trips.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_183",
+          "name": "Kink-interest diversity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of kink-interest diversity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_230",
+          "name": "516. Religious coping \u2013 Negative",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 516. religious coping \u2013 negative.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_124",
+          "name": "565. Practice frequency: Walking meditation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 565. practice frequency: walking meditation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_258",
+          "name": "Time outdoors/day (h)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time outdoors/day (h).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_024",
+          "name": "Warmheartedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of warmheartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_235",
+          "name": "Cloud-backup frequency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cloud-backup frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_059",
+          "name": "Memory for Sounds",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of memory for sounds.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_042",
+          "name": "Sense-of-coherence score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sense-of-coherence score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_287",
+          "name": "Alignment with societal roles",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of alignment with societal roles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_010",
+          "name": "Self-righteousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-righteousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_014",
+          "name": "Coarseness",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of coarseness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_019",
+          "name": "General Mood and Attitude",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of general mood and attitude.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That's great to hear! You can start by joining local groups or attending rallies and events. Social ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_275",
+          "name": "627. Sacred text engagement: Quran surahs memorized",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 627. sacred text engagement: quran surahs memorized.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of eco-tourism trips.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_183",
+          "name": "Kink-interest diversity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of kink-interest diversity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_230",
+          "name": "516. Religious coping \u2013 Negative",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 516. religious coping \u2013 negative.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_124",
+          "name": "565. Practice frequency: Walking meditation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 565. practice frequency: walking meditation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_258",
+          "name": "Time outdoors/day (h)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time outdoors/day (h).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_024",
+          "name": "Warmheartedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of warmheartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_235",
+          "name": "Cloud-backup frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cloud-backup frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_059",
+          "name": "Memory for Sounds",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of memory for sounds.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_042",
+          "name": "Sense-of-coherence score",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sense-of-coherence score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_287",
+          "name": "Alignment with societal roles",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of alignment with societal roles.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_010",
+          "name": "Self-righteousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-righteousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_014",
+          "name": "Coarseness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of coarseness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_019",
+          "name": "General Mood and Attitude",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of general mood and attitude.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I've been thinking about starting my own small project, but I'm not sure what would be impactful. An",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_275",
+          "name": "627. Sacred text engagement: Quran surahs memorized",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 627. sacred text engagement: quran surahs memorized.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eco-tourism trips.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_183",
+          "name": "Kink-interest diversity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of kink-interest diversity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_230",
+          "name": "516. Religious coping \u2013 Negative",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 516. religious coping \u2013 negative.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_124",
+          "name": "565. Practice frequency: Walking meditation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 565. practice frequency: walking meditation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_258",
+          "name": "Time outdoors/day (h)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time outdoors/day (h).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_024",
+          "name": "Warmheartedness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of warmheartedness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_235",
+          "name": "Cloud-backup frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cloud-backup frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_059",
+          "name": "Memory for Sounds",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of memory for sounds.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_042",
+          "name": "Sense-of-coherence score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sense-of-coherence score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_287",
+          "name": "Alignment with societal roles",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of alignment with societal roles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_010",
+          "name": "Self-righteousness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-righteousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_014",
+          "name": "Coarseness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of coarseness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_019",
+          "name": "General Mood and Attitude",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of general mood and attitude.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That's awesome! How about organizing a community clean-up or planting trees? Both can have a tangibl",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_275",
+          "name": "627. Sacred text engagement: Quran surahs memorized",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 627. sacred text engagement: quran surahs memorized.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eco-tourism trips.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_183",
+          "name": "Kink-interest diversity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of kink-interest diversity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_033",
+          "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: faux pas recognition accuracy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_230",
+          "name": "516. Religious coping \u2013 Negative",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 516. religious coping \u2013 negative.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_124",
+          "name": "565. Practice frequency: Walking meditation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 565. practice frequency: walking meditation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_159",
+          "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 892. hindu spiritual metric: yoga discipline hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_258",
+          "name": "Time outdoors/day (h)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of time outdoors/day (h).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_024",
+          "name": "Warmheartedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of warmheartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_235",
+          "name": "Cloud-backup frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cloud-backup frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_059",
+          "name": "Memory for Sounds",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of memory for sounds.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_042",
+          "name": "Sense-of-coherence score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sense-of-coherence score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_287",
+          "name": "Alignment with societal roles",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of alignment with societal roles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_077",
+          "name": "Holiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of holiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_010",
+          "name": "Self-righteousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-righteousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_014",
+          "name": "Coarseness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of coarseness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_019",
+          "name": "General Mood and Attitude",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of general mood and attitude.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decision-making decisiveness.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

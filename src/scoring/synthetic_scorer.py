@@ -139,6 +139,9 @@ def score_conversation_synthetic(conversation: dict, facets: list) -> dict:
     
     turn_scores = []
     for turn in conversation["turns"]:
+    # Normalize key
+        if "text" not in turn:
+            turn["text"] = turn.get("content", turn.get("message", ""))
         if len(turn["text"].split()) < 3:
             continue
         

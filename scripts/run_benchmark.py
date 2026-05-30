@@ -51,7 +51,15 @@ for i, fname in enumerate(conv_files):
         print(f"✓ [{mode}] score={result['overall_score']} time={round(time.time()-t0,1)}s")
 
     except Exception as e:
-        print(f"✗ ERROR: {e}")
+    print(f"✗ ERROR: {e}")
+    # Fallback to synthetic so we always have a score
+    try:
+        result = score_conversation_synthetic(conv, facets)
+        result["scoring_mode"] = "synthetic_fallback"
+        with open(out_path, "w") as f:
+            json.dump(result, f, indent=2)
+        print(f"  → Saved synthetic fallback score={result['overall_score']}")
+    except Exception as e2:
         with open(out_path, "w") as f:
             json.dump({"conversation_id": conv.get("conversation_id"), "error": str(e)}, f)
 

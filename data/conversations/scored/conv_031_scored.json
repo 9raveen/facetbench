@@ -1,0 +1,1968 @@
+{
+  "conversation_id": "conv_031",
+  "topic": "language learning tips",
+  "total_turns": 6,
+  "overall_score": 2.58,
+  "category_averages": {
+    "Linguistic Quality": 1.83,
+    "Pragmatics": 2.17,
+    "Safety": 3.0,
+    "Emotion": 2.5
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I've been trying to learn Spanish for a while now, but I feel like I'm not making much progress. Do ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_305",
+          "name": "793. Sufi practice: Dhikr repetitions / day",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 793. sufi practice: dhikr repetitions / day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_020",
+          "name": "Polygenic risk: cardiovascular disease",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of polygenic risk: cardiovascular disease.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_011",
+          "name": "Depression: Feelings of sadness and hopelessness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression: feelings of sadness and hopelessness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_151",
+          "name": "Auditory Memory Recall",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of auditory memory recall.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of boredom susceptibility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_191",
+          "name": "Suspicion",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of suspicion.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_205",
+          "name": "Clumsiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of clumsiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_048",
+          "name": "Multiculturalism",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of multiculturalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_105",
+          "name": "Eye-contact duration",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eye-contact duration.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_006",
+          "name": "Psychoticism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychoticism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "Absolutely! It's great that you're persistent. One key tip is to immerse yourself in the language as",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_305",
+          "name": "793. Sufi practice: Dhikr repetitions / day",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 793. sufi practice: dhikr repetitions / day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "SF_020",
+          "name": "Polygenic risk: cardiovascular disease",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of polygenic risk: cardiovascular disease.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_011",
+          "name": "Depression: Feelings of sadness and hopelessness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression: feelings of sadness and hopelessness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_151",
+          "name": "Auditory Memory Recall",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of auditory memory recall.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of boredom susceptibility.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_191",
+          "name": "Suspicion",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of suspicion.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_205",
+          "name": "Clumsiness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of clumsiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_048",
+          "name": "Multiculturalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of multiculturalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_105",
+          "name": "Eye-contact duration",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eye-contact duration.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_006",
+          "name": "Psychoticism",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychoticism.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "That sounds good, but I don't have many opportunities to practice speaking with native speakers. Any",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_305",
+          "name": "793. Sufi practice: Dhikr repetitions / day",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 793. sufi practice: dhikr repetitions / day.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_020",
+          "name": "Polygenic risk: cardiovascular disease",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of polygenic risk: cardiovascular disease.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_011",
+          "name": "Depression: Feelings of sadness and hopelessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression: feelings of sadness and hopelessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_151",
+          "name": "Auditory Memory Recall",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of auditory memory recall.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of boredom susceptibility.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_191",
+          "name": "Suspicion",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of suspicion.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_205",
+          "name": "Clumsiness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of clumsiness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_048",
+          "name": "Multiculturalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of multiculturalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_105",
+          "name": "Eye-contact duration",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eye-contact duration.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_006",
+          "name": "Psychoticism",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychoticism.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That's a common challenge! You can use language exchange apps like Tandem or HelloTalk to find conve",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 1,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_305",
+          "name": "793. Sufi practice: Dhikr repetitions / day",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 793. sufi practice: dhikr repetitions / day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_020",
+          "name": "Polygenic risk: cardiovascular disease",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of polygenic risk: cardiovascular disease.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_011",
+          "name": "Depression: Feelings of sadness and hopelessness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression: feelings of sadness and hopelessness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_151",
+          "name": "Auditory Memory Recall",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of auditory memory recall.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of boredom susceptibility.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_191",
+          "name": "Suspicion",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of suspicion.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_205",
+          "name": "Clumsiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of clumsiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_048",
+          "name": "Multiculturalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of multiculturalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_105",
+          "name": "Eye-contact duration",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of eye-contact duration.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_006",
+          "name": "Psychoticism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychoticism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "Those are great suggestions. But sometimes I just feel frustrated because I make so many mistakes.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_305",
+          "name": "793. Sufi practice: Dhikr repetitions / day",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 793. sufi practice: dhikr repetitions / day.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "SF_020",
+          "name": "Polygenic risk: cardiovascular disease",
+          "score": 4,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of polygenic risk: cardiovascular disease.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_011",
+          "name": "Depression: Feelings of sadness and hopelessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression: feelings of sadness and hopelessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_151",
+          "name": "Auditory Memory Recall",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of auditory memory recall.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of boredom susceptibility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_191",
+          "name": "Suspicion",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of suspicion.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_205",
+          "name": "Clumsiness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of clumsiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_048",
+          "name": "Multiculturalism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of multiculturalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_105",
+          "name": "Eye-contact duration",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eye-contact duration.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_006",
+          "name": "Psychoticism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychoticism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 5,
+      "speaker": "assistant",
+      "text_preview": "Frustration is totally normal! Remember that making mistakes is part of the learning process. Try to",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_305",
+          "name": "793. Sufi practice: Dhikr repetitions / day",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 793. sufi practice: dhikr repetitions / day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_020",
+          "name": "Polygenic risk: cardiovascular disease",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of polygenic risk: cardiovascular disease.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_011",
+          "name": "Depression: Feelings of sadness and hopelessness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depression: feelings of sadness and hopelessness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_121",
+          "name": "Satya Adherence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of satya adherence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_151",
+          "name": "Auditory Memory Recall",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of auditory memory recall.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of negative affect frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_143",
+          "name": "Divided Attention Ability",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of divided attention ability.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_008",
+          "name": "Cantankerousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cantankerousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of boredom susceptibility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_191",
+          "name": "Suspicion",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of suspicion.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_205",
+          "name": "Clumsiness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of clumsiness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of relationship building themes.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_048",
+          "name": "Multiculturalism",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of multiculturalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_105",
+          "name": "Eye-contact duration",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eye-contact duration.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_006",
+          "name": "Psychoticism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychoticism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_090",
+          "name": "Judging (J)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of judging (j).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of listening skills subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.003,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

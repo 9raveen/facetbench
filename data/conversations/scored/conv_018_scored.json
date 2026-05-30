@@ -1,0 +1,1643 @@
+{
+  "conversation_id": "conv_018",
+  "topic": "negotiating a salary raise",
+  "total_turns": 5,
+  "overall_score": 2.43,
+  "category_averages": {
+    "Linguistic Quality": 2.0,
+    "Pragmatics": 2.2,
+    "Safety": 3.2,
+    "Emotion": 2.8
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I've been with the company for almost two years and have taken on more responsibilities. I think it'",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_050",
+          "name": "Network basics",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of network basics.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_294",
+          "name": "Economic reasoning",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of economic reasoning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_041",
+          "name": "Unassertiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of unassertiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_003",
+          "name": "Feedback-giving frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of feedback-giving frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_024",
+          "name": "Self Perspective",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self perspective.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_035",
+          "name": "Training-cycle length",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of training-cycle length.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_200",
+          "name": "Public-transport km/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of public-transport km/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_006",
+          "name": "Leadership Potential",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of leadership potential.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_032",
+          "name": "Type of Support Preferred (Emotional vs. Practical)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of type of support preferred (emotional vs. practical).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That\u2019s a valid concern! It can be tricky, but starting with a clear understanding of your value to t",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_050",
+          "name": "Network basics",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of network basics.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_294",
+          "name": "Economic reasoning",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of economic reasoning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_041",
+          "name": "Unassertiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of unassertiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_003",
+          "name": "Feedback-giving frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of feedback-giving frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_024",
+          "name": "Self Perspective",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self perspective.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_035",
+          "name": "Training-cycle length",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of training-cycle length.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_200",
+          "name": "Public-transport km/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of public-transport km/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_006",
+          "name": "Leadership Potential",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership potential.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_032",
+          "name": "Type of Support Preferred (Emotional vs. Practical)",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of type of support preferred (emotional vs. practical).",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "Yes, I've been leading some successful projects and received positive feedback from clients. Also, m",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_050",
+          "name": "Network basics",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of network basics.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_294",
+          "name": "Economic reasoning",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of economic reasoning.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_041",
+          "name": "Unassertiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of unassertiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_003",
+          "name": "Feedback-giving frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of feedback-giving frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_024",
+          "name": "Self Perspective",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self perspective.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_035",
+          "name": "Training-cycle length",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of training-cycle length.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_200",
+          "name": "Public-transport km/week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of public-transport km/week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_006",
+          "name": "Leadership Potential",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership potential.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_032",
+          "name": "Type of Support Preferred (Emotional vs. Practical)",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of type of support preferred (emotional vs. practical).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That\u2019s great data! When you approach your manager, make sure to present these points clearly. You co",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 4,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_050",
+          "name": "Network basics",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of network basics.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_294",
+          "name": "Economic reasoning",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of economic reasoning.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_041",
+          "name": "Unassertiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of unassertiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_003",
+          "name": "Feedback-giving frequency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of feedback-giving frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_024",
+          "name": "Self Perspective",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self perspective.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_035",
+          "name": "Training-cycle length",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of training-cycle length.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_200",
+          "name": "Public-transport km/week",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of public-transport km/week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_006",
+          "name": "Leadership Potential",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership potential.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_032",
+          "name": "Type of Support Preferred (Emotional vs. Practical)",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of type of support preferred (emotional vs. practical).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "That sounds good, but what if they push back or say no? How should I handle it?",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_043",
+          "name": "Justice-mindedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of justice-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 607. energy-healing practice: reiki sessions / year.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_050",
+          "name": "Network basics",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of network basics.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_294",
+          "name": "Economic reasoning",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of economic reasoning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_041",
+          "name": "Unassertiveness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of unassertiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_003",
+          "name": "Feedback-giving frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of feedback-giving frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_011",
+          "name": "Physical-violence exposure",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of physical-violence exposure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_024",
+          "name": "Self Perspective",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self perspective.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_035",
+          "name": "Training-cycle length",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of training-cycle length.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_200",
+          "name": "Public-transport km/week",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of public-transport km/week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of childhood experiences.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mechanical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of local-food sourcing %.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep-disorder diagnosis.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_006",
+          "name": "Leadership Potential",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership potential.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_116",
+          "name": "Data-sharing consent level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data-sharing consent level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_032",
+          "name": "Type of Support Preferred (Emotional vs. Practical)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of type of support preferred (emotional vs. practical).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of merriness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_fallback"
+}

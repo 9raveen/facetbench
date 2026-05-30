@@ -1,0 +1,1643 @@
+{
+  "conversation_id": "conv_024",
+  "topic": "creative writing assistance",
+  "total_turns": 5,
+  "overall_score": 2.53,
+  "category_averages": {
+    "Linguistic Quality": 2.8,
+    "Pragmatics": 2.2,
+    "Safety": 3.2,
+    "Emotion": 2.4
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I'm stuck on my novel. The plot seems too predictable, and I can't think of a way to make the charac",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_089",
+          "name": "Seeking approval",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of seeking approval.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_012",
+          "name": "Genuine",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genuine.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_184",
+          "name": "Adaptability and Flexibility",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_214",
+          "name": "Open-source contributions",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of open-source contributions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_005",
+          "name": "Overprotectiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of overprotectiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_240",
+          "name": "Drollness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of drollness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That sounds frustrating! Have you tried outlining different scenarios or using character development",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_089",
+          "name": "Seeking approval",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of seeking approval.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_012",
+          "name": "Genuine",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genuine.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_184",
+          "name": "Adaptability and Flexibility",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_214",
+          "name": "Open-source contributions",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of open-source contributions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_005",
+          "name": "Overprotectiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of overprotectiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_240",
+          "name": "Drollness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drollness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I've done some outlines, but I just feel like my characters are flat. They're not engaging enough to",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_089",
+          "name": "Seeking approval",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of seeking approval.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_012",
+          "name": "Genuine",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genuine.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_184",
+          "name": "Adaptability and Flexibility",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of adaptability and flexibility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_214",
+          "name": "Open-source contributions",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of open-source contributions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_005",
+          "name": "Overprotectiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of overprotectiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_240",
+          "name": "Drollness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drollness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That's a common challenge! Consider giving your characters unique quirks or backstories that influen",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_089",
+          "name": "Seeking approval",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of seeking approval.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_012",
+          "name": "Genuine",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genuine.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_184",
+          "name": "Adaptability and Flexibility",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adaptability and flexibility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_214",
+          "name": "Open-source contributions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of open-source contributions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_005",
+          "name": "Overprotectiveness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of overprotectiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_240",
+          "name": "Drollness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drollness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "You're right, but I'm afraid it might come off as too contrived. How do I balance making my characte",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 4,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_047",
+          "name": "Orderliness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of orderliness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_012",
+          "name": "Ethnocentrism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ethnocentrism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_089",
+          "name": "Seeking approval",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of seeking approval.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_012",
+          "name": "Genuine",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genuine.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_002",
+          "name": "Acidity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of acidity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_259",
+          "name": "Effeteness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of effeteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_007",
+          "name": "Martyrdom",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of martyrdom.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_017",
+          "name": "Affection",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of affection.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_184",
+          "name": "Adaptability and Flexibility",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of adaptability and flexibility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_214",
+          "name": "Open-source contributions",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of open-source contributions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_016",
+          "name": "Discreteness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of discreteness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_005",
+          "name": "Overprotectiveness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of overprotectiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_308",
+          "name": "Decency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of decency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_240",
+          "name": "Drollness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of drollness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_146",
+          "name": "Concreteness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of concreteness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_039",
+          "name": "Dance-cardio sessions",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance-cardio sessions.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of innovation and creativity components.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_251",
+          "name": "Cognitive measure: Working Memory Index",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cognitive measure: working memory index.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.002,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

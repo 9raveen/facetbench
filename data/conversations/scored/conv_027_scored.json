@@ -1,0 +1,1968 @@
+{
+  "conversation_id": "conv_027",
+  "topic": "home repair guidance",
+  "total_turns": 6,
+  "overall_score": 2.47,
+  "category_averages": {
+    "Linguistic Quality": 2.0,
+    "Pragmatics": 2.5,
+    "Safety": 2.83,
+    "Emotion": 2.33
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I have a leaky faucet in the kitchen. It's been dripping for days and I'm worried it might cause wat",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 4,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_126",
+          "name": "Hypomania (Ma)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of hypomania (ma).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_158",
+          "name": "Withdrawnness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of withdrawnness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_255",
+          "name": "Sleep Apnea",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep apnea.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_013",
+          "name": "Rebelliousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of rebelliousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_299",
+          "name": "Patience: Resistance to anger",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patience: resistance to anger.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_301",
+          "name": "Self-Efficacy",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-efficacy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_218",
+          "name": "Intelligence Quotient (IQ)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of intelligence quotient (iq).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_088",
+          "name": "Parathyroid-hormone level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of parathyroid-hormone level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_309",
+          "name": "Processed-food frequency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of processed-food frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That sounds frustrating! First, you can try tightening the packing nut under the faucet handle with ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_126",
+          "name": "Hypomania (Ma)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hypomania (ma).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_158",
+          "name": "Withdrawnness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of withdrawnness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_255",
+          "name": "Sleep Apnea",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep apnea.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_013",
+          "name": "Rebelliousness",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of rebelliousness.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_299",
+          "name": "Patience: Resistance to anger",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of patience: resistance to anger.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_301",
+          "name": "Self-Efficacy",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-efficacy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_218",
+          "name": "Intelligence Quotient (IQ)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intelligence quotient (iq).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_088",
+          "name": "Parathyroid-hormone level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of parathyroid-hormone level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_309",
+          "name": "Processed-food frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of processed-food frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I've tried tightening it but it's still leaking. Should I call a plumber?",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_126",
+          "name": "Hypomania (Ma)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hypomania (ma).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_158",
+          "name": "Withdrawnness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of withdrawnness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_255",
+          "name": "Sleep Apnea",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep apnea.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_013",
+          "name": "Rebelliousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of rebelliousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_299",
+          "name": "Patience: Resistance to anger",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patience: resistance to anger.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_301",
+          "name": "Self-Efficacy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-efficacy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_218",
+          "name": "Intelligence Quotient (IQ)",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intelligence quotient (iq).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_088",
+          "name": "Parathyroid-hormone level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of parathyroid-hormone level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_309",
+          "name": "Processed-food frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of processed-food frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "If you're not comfortable doing it yourself, yes, calling a professional might be the best option to",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 4,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_126",
+          "name": "Hypomania (Ma)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hypomania (ma).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_158",
+          "name": "Withdrawnness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of withdrawnness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_255",
+          "name": "Sleep Apnea",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep apnea.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_013",
+          "name": "Rebelliousness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of rebelliousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_299",
+          "name": "Patience: Resistance to anger",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patience: resistance to anger.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_301",
+          "name": "Self-Efficacy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-efficacy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_218",
+          "name": "Intelligence Quotient (IQ)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intelligence quotient (iq).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_088",
+          "name": "Parathyroid-hormone level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of parathyroid-hormone level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_309",
+          "name": "Processed-food frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of processed-food frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "I think I'll give it another shot. Thanks for your help!",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_126",
+          "name": "Hypomania (Ma)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hypomania (ma).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_158",
+          "name": "Withdrawnness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of withdrawnness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_255",
+          "name": "Sleep Apnea",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep apnea.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_013",
+          "name": "Rebelliousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of rebelliousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_299",
+          "name": "Patience: Resistance to anger",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patience: resistance to anger.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_301",
+          "name": "Self-Efficacy",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-efficacy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_218",
+          "name": "Intelligence Quotient (IQ)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of intelligence quotient (iq).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_088",
+          "name": "Parathyroid-hormone level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of parathyroid-hormone level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_309",
+          "name": "Processed-food frequency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of processed-food frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 5,
+      "speaker": "assistant",
+      "text_preview": "You're welcome! If you need any more guidance or run into trouble, feel free to ask. Good luck with ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_188",
+          "name": "Chronic pain presence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of chronic pain presence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_126",
+          "name": "Hypomania (Ma)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hypomania (ma).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_158",
+          "name": "Withdrawnness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of withdrawnness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_255",
+          "name": "Sleep Apnea",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sleep apnea.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of volunteer work.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_020",
+          "name": "Outspokenness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of outspokenness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_013",
+          "name": "Rebelliousness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of rebelliousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_017",
+          "name": "Character strength: Social Intelligence",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of character strength: social intelligence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_299",
+          "name": "Patience: Resistance to anger",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of patience: resistance to anger.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_301",
+          "name": "Self-Efficacy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-efficacy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_218",
+          "name": "Intelligence Quotient (IQ)",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of intelligence quotient (iq).",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_088",
+          "name": "Parathyroid-hormone level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of parathyroid-hormone level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_180",
+          "name": "Graffiti appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of graffiti appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_100",
+          "name": "Well-being component: Engagement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of well-being component: engagement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_156",
+          "name": "Comprehension of spoken information",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of comprehension of spoken information.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of adventure-seeking behavior.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_170",
+          "name": "Dietary Habits",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dietary habits.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_221",
+          "name": "Psychological construct: Excuse-Making tendency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: excuse-making tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_309",
+          "name": "Processed-food frequency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of processed-food frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_260",
+          "name": "Psychological construct: Identity Diffusion level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: identity diffusion level.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

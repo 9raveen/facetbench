@@ -1,0 +1,1643 @@
+{
+  "conversation_id": "conv_043",
+  "topic": "elder care planning",
+  "total_turns": 5,
+  "overall_score": 2.46,
+  "category_averages": {
+    "Linguistic Quality": 2.0,
+    "Pragmatics": 2.6,
+    "Safety": 3.4,
+    "Emotion": 2.4
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I'm really worried about my mom. She's been having trouble with memory lately, and I think she might",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_224",
+          "name": "Conscientiousness (C)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conscientiousness (c).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_081",
+          "name": "Data Analysis",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of data analysis.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_028",
+          "name": "Reliance on context",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of reliance on context.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_133",
+          "name": "Moral and Ethical Parameters",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of moral and ethical parameters.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_153",
+          "name": "Music-lessons years",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of music-lessons years.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_192",
+          "name": "Basophil count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of basophil count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_139",
+          "name": "Intellect",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of intellect.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 4,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of risktaking.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_267",
+          "name": "Patriotism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patriotism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_162",
+          "name": "898. Hindu spiritual metric: Vrata vows observed / year",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 898. hindu spiritual metric: vrata vows observed / year.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_024",
+          "name": "Initiative",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of initiative.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That sounds tough. Have you talked to her about your concerns? Sometimes people are resistant to the",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_224",
+          "name": "Conscientiousness (C)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of conscientiousness (c).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_081",
+          "name": "Data Analysis",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data analysis.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_028",
+          "name": "Reliance on context",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of reliance on context.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_133",
+          "name": "Moral and Ethical Parameters",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of moral and ethical parameters.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_153",
+          "name": "Music-lessons years",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of music-lessons years.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_192",
+          "name": "Basophil count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of basophil count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_139",
+          "name": "Intellect",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intellect.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of risktaking.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_267",
+          "name": "Patriotism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of patriotism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_162",
+          "name": "898. Hindu spiritual metric: Vrata vows observed / year",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 898. hindu spiritual metric: vrata vows observed / year.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_024",
+          "name": "Initiative",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of initiative.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "We did talk, but she's been insisting that she can manage on her own. I'm afraid it might be too lat",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_224",
+          "name": "Conscientiousness (C)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of conscientiousness (c).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_081",
+          "name": "Data Analysis",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of data analysis.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_028",
+          "name": "Reliance on context",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of reliance on context.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_133",
+          "name": "Moral and Ethical Parameters",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of moral and ethical parameters.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_153",
+          "name": "Music-lessons years",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of music-lessons years.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_192",
+          "name": "Basophil count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of basophil count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_139",
+          "name": "Intellect",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intellect.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of risktaking.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_267",
+          "name": "Patriotism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of patriotism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_162",
+          "name": "898. Hindu spiritual metric: Vrata vows observed / year",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 898. hindu spiritual metric: vrata vows observed / year.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_024",
+          "name": "Initiative",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of initiative.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "It's understandable to feel frustrated. Have you considered speaking with a professional about your ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_224",
+          "name": "Conscientiousness (C)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conscientiousness (c).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_081",
+          "name": "Data Analysis",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of data analysis.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_028",
+          "name": "Reliance on context",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of reliance on context.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_133",
+          "name": "Moral and Ethical Parameters",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of moral and ethical parameters.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_153",
+          "name": "Music-lessons years",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of music-lessons years.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_192",
+          "name": "Basophil count",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of basophil count.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_139",
+          "name": "Intellect",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of intellect.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of risktaking.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_267",
+          "name": "Patriotism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of patriotism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_162",
+          "name": "898. Hindu spiritual metric: Vrata vows observed / year",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 898. hindu spiritual metric: vrata vows observed / year.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_024",
+          "name": "Initiative",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of initiative.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "That\u2019s a good idea, but I\u2019m not sure where to start. Can you recommend any resources or professional",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 4,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 4,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_220",
+          "name": "Commute time/day",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of commute time/day.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_013",
+          "name": "Burnout Symptoms",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of burnout symptoms.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_147",
+          "name": "911. Jewish spiritual metric: Sukkot lulav-shaking days",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 911. jewish spiritual metric: sukkot lulav-shaking days.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_292",
+          "name": "Cordiality",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cordiality.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_224",
+          "name": "Conscientiousness (C)",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conscientiousness (c).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_081",
+          "name": "Data Analysis",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of data analysis.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_028",
+          "name": "Reliance on context",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of reliance on context.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_083",
+          "name": "Desire for excellence",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of desire for excellence.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_096",
+          "name": "800. Sufi practice: Sufi retreat attendance count",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 800. sufi practice: sufi retreat attendance count.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_133",
+          "name": "Moral and Ethical Parameters",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of moral and ethical parameters.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_018",
+          "name": "Drug-use history",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of drug-use history.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_153",
+          "name": "Music-lessons years",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of music-lessons years.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_192",
+          "name": "Basophil count",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of basophil count.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_139",
+          "name": "Intellect",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of intellect.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_142",
+          "name": "Sensitivity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of sensitivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of risktaking.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_076",
+          "name": "Impartial-mindedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impartial-mindedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_132",
+          "name": "Exemplariness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of exemplariness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_267",
+          "name": "Patriotism",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of patriotism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_135",
+          "name": "Psychological construct: Psychological Safety climate",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: psychological safety climate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_286",
+          "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of eating habits (home-cooked vs. eating out).",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_162",
+          "name": "898. Hindu spiritual metric: Vrata vows observed / year",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 898. hindu spiritual metric: vrata vows observed / year.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_024",
+          "name": "Initiative",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of initiative.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.002,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

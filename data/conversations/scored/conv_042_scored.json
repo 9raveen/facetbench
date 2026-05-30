@@ -1,0 +1,1968 @@
+{
+  "conversation_id": "conv_042",
+  "topic": "creative block in art",
+  "total_turns": 6,
+  "overall_score": 2.4,
+  "category_averages": {
+    "Linguistic Quality": 1.67,
+    "Pragmatics": 2.33,
+    "Safety": 3.0,
+    "Emotion": 2.33
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I've been struggling with my painting for weeks now. I feel like I'm just going through the motions ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of gamified-finance-app usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_193",
+          "name": "Attachment avoidance score",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment avoidance score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_060",
+          "name": "Sportsmanship rating",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sportsmanship rating.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_229",
+          "name": "Digital-nomad months",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of digital-nomad months.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_189",
+          "name": "520. Discernment practice hours / week",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 520. discernment practice hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_265",
+          "name": "Wake-time consistency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of wake-time consistency.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That sounds tough! Have you tried taking a break or doing something different to spark some new idea",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of gamified-finance-app usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_193",
+          "name": "Attachment avoidance score",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment avoidance score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_060",
+          "name": "Sportsmanship rating",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sportsmanship rating.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_229",
+          "name": "Digital-nomad months",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of digital-nomad months.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_189",
+          "name": "520. Discernment practice hours / week",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 520. discernment practice hours / week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_265",
+          "name": "Wake-time consistency",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of wake-time consistency.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I've tried that, but nothing seems to work. It's like my inspiration has completely dried up.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of gamified-finance-app usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_193",
+          "name": "Attachment avoidance score",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment avoidance score.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_060",
+          "name": "Sportsmanship rating",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sportsmanship rating.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_229",
+          "name": "Digital-nomad months",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of digital-nomad months.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_189",
+          "name": "520. Discernment practice hours / week",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 520. discernment practice hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_265",
+          "name": "Wake-time consistency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of wake-time consistency.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "It's understandable to feel that way, but it might be helpful to explore different techniques or sub",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of gamified-finance-app usage.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_193",
+          "name": "Attachment avoidance score",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of attachment avoidance score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_060",
+          "name": "Sportsmanship rating",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sportsmanship rating.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_229",
+          "name": "Digital-nomad months",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of digital-nomad months.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_189",
+          "name": "520. Discernment practice hours / week",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 520. discernment practice hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_265",
+          "name": "Wake-time consistency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of wake-time consistency.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "I don't know... I've tried everything and still can't seem to get past this block.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of gamified-finance-app usage.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_193",
+          "name": "Attachment avoidance score",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of attachment avoidance score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_060",
+          "name": "Sportsmanship rating",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sportsmanship rating.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_229",
+          "name": "Digital-nomad months",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of digital-nomad months.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_189",
+          "name": "520. Discernment practice hours / week",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 520. discernment practice hours / week.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_265",
+          "name": "Wake-time consistency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of wake-time consistency.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 5,
+      "speaker": "assistant",
+      "text_preview": "Sometimes it's good to remind yourself why you started creating in the first place. Maybe focus on t",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_018",
+          "name": "Openness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of openness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of depth of emotional connections.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_074",
+          "name": "Cultural Identity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cultural identity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of gamified-finance-app usage.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_128",
+          "name": "Binding foundations index",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of binding foundations index.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of emotional-intelligence measure: impulsiveness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_085",
+          "name": "Liberalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of liberalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of need for social interaction.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_238",
+          "name": "Safety compliance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of safety compliance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_023",
+          "name": "Social-cognition variable: Cognitive Empathy",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of social-cognition variable: cognitive empathy.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_025",
+          "name": "Blissfulness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of blissfulness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_056",
+          "name": "Sustainable-transport usage",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sustainable-transport usage.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_193",
+          "name": "Attachment avoidance score",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of attachment avoidance score.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_163",
+          "name": "Aesthetic Appreciation",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of aesthetic appreciation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of numerical reasoning subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_027",
+          "name": "Tendency Toward Compromise or Confrontation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of tendency toward compromise or confrontation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_060",
+          "name": "Sportsmanship rating",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of sportsmanship rating.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dance-style mastery diversity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_061",
+          "name": "Immaturity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of immaturity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ego dissolution frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_229",
+          "name": "Digital-nomad months",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of digital-nomad months.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_028",
+          "name": "Role of Spirituality in Community Involvement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of role of spirituality in community involvement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_189",
+          "name": "520. Discernment practice hours / week",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 520. discernment practice hours / week.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_265",
+          "name": "Wake-time consistency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of wake-time consistency.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.0,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

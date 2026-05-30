@@ -1,0 +1,1318 @@
+{
+  "conversation_id": "conv_016",
+  "topic": "climate change discussion",
+  "total_turns": 4,
+  "overall_score": 2.45,
+  "category_averages": {
+    "Linguistic Quality": 2.0,
+    "Pragmatics": 3.0,
+    "Safety": 3.25,
+    "Emotion": 1.75
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I've been really worried about climate change lately. It feels like we're running out of time to do ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 1,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_070",
+          "name": "Psychomotor Ability Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychomotor ability subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_104",
+          "name": "Information Retention",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of information retention.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_264",
+          "name": "Psychological construct: Perfectionistic Strivings",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: perfectionistic strivings.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_029",
+          "name": "Delegation skills",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of delegation skills.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_055",
+          "name": "Logical Sequence Identification",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of logical sequence identification.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of assertiveness and control in relationships.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_019",
+          "name": "Frankness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of frankness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_014",
+          "name": "Happiness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of happiness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_234",
+          "name": "Motivational Drivers",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of motivational drivers.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_249",
+          "name": "Vivacity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of vivacity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_011",
+          "name": "Meeting Deadlines",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of meeting deadlines.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attitude toward learning.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_013",
+          "name": "Ethical leadership rating",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ethical leadership rating.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That's a valid concern, especially with the recent extreme weather events. What specifically are you",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 4,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 1,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_070",
+          "name": "Psychomotor Ability Subcomponents",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychomotor ability subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_104",
+          "name": "Information Retention",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of information retention.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_264",
+          "name": "Psychological construct: Perfectionistic Strivings",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: perfectionistic strivings.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_029",
+          "name": "Delegation skills",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of delegation skills.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_055",
+          "name": "Logical Sequence Identification",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of logical sequence identification.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of assertiveness and control in relationships.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_019",
+          "name": "Frankness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of frankness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_014",
+          "name": "Happiness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of happiness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_234",
+          "name": "Motivational Drivers",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of motivational drivers.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_249",
+          "name": "Vivacity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of vivacity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_011",
+          "name": "Meeting Deadlines",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of meeting deadlines.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of attitude toward learning.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_013",
+          "name": "Ethical leadership rating",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of ethical leadership rating.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I'm really scared that if we don't act soon, things like sea level rise and more frequent natural di",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_070",
+          "name": "Psychomotor Ability Subcomponents",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychomotor ability subcomponents.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_104",
+          "name": "Information Retention",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of information retention.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_264",
+          "name": "Psychological construct: Perfectionistic Strivings",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: perfectionistic strivings.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_029",
+          "name": "Delegation skills",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of delegation skills.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_055",
+          "name": "Logical Sequence Identification",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of logical sequence identification.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of assertiveness and control in relationships.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_019",
+          "name": "Frankness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of frankness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_014",
+          "name": "Happiness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of happiness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_234",
+          "name": "Motivational Drivers",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of motivational drivers.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_249",
+          "name": "Vivacity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of vivacity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_011",
+          "name": "Meeting Deadlines",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of meeting deadlines.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of attitude toward learning.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_013",
+          "name": "Ethical leadership rating",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethical leadership rating.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "Those are definitely serious issues. Have you considered getting involved in local climate action gr",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 1,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 4,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "PR_036",
+          "name": "Leadership Styles",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of leadership styles.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_012",
+          "name": "High-spiritedness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of high-spiritedness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_070",
+          "name": "Psychomotor Ability Subcomponents",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychomotor ability subcomponents.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_099",
+          "name": "754. I Ching hexagram 36 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 754. i ching hexagram 36 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_187",
+          "name": "Abasement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of abasement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_217",
+          "name": "Attachment style: Secure",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attachment style: secure.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_243",
+          "name": "Impulsivity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of impulsivity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_104",
+          "name": "Information Retention",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of information retention.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_264",
+          "name": "Psychological construct: Perfectionistic Strivings",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: perfectionistic strivings.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_029",
+          "name": "Delegation skills",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of delegation skills.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compassion fatigue.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_055",
+          "name": "Logical Sequence Identification",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of logical sequence identification.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_210",
+          "name": "767. I Ching hexagram 49 resonance level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 767. i ching hexagram 49 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of assertiveness and control in relationships.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_131",
+          "name": "967. Gnostic spiritual metric: Archon meditation frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 967. gnostic spiritual metric: archon meditation frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_019",
+          "name": "Frankness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of frankness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_003",
+          "name": "Common-sense",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of common-sense.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_014",
+          "name": "Happiness",
+          "score": 1,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of happiness.",
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of pure challenge.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_234",
+          "name": "Motivational Drivers",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of motivational drivers.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_249",
+          "name": "Vivacity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of vivacity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_011",
+          "name": "Meeting Deadlines",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of meeting deadlines.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of attitude toward learning.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_204",
+          "name": "Analogies",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of analogies.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_013",
+          "name": "Ethical leadership rating",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of ethical leadership rating.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_068",
+          "name": "Precision of Movements",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of precision of movements.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.001,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}

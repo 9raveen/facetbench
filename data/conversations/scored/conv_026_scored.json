@@ -1,0 +1,1968 @@
+{
+  "conversation_id": "conv_026",
+  "topic": "gaming strategy advice",
+  "total_turns": 6,
+  "overall_score": 2.46,
+  "category_averages": {
+    "Linguistic Quality": 2.83,
+    "Pragmatics": 2.0,
+    "Safety": 3.17,
+    "Emotion": 2.17
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I'm really struggling with the new boss fight in this game. I keep getting hit by the same attack an",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 2,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_118",
+          "name": "Macronutrient ratio: fat",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of macronutrient ratio: fat.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_186",
+          "name": "Affinity",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of affinity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_004",
+          "name": "Psychological construct: Social Desirability tendency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: social desirability tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_160",
+          "name": "Conservatism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conservatism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_013",
+          "name": "Determinedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of determinedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_025",
+          "name": "Talkativeness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of talkativeness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_247",
+          "name": "788. Kabbalah sephira balance: Tiferet",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 788. kabbalah sephira balance: tiferet.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_005",
+          "name": "Dishonesty",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dishonesty.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_009",
+          "name": "Hostility",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hostility.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That sounds frustrating! Can you tell me more about the attack pattern? Is there a specific timing o",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_118",
+          "name": "Macronutrient ratio: fat",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of macronutrient ratio: fat.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_186",
+          "name": "Affinity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of affinity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_004",
+          "name": "Psychological construct: Social Desirability tendency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: social desirability tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_160",
+          "name": "Conservatism",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of conservatism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_013",
+          "name": "Determinedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of determinedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_025",
+          "name": "Talkativeness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of talkativeness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_247",
+          "name": "788. Kabbalah sephira balance: Tiferet",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 788. kabbalah sephira balance: tiferet.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_005",
+          "name": "Dishonesty",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dishonesty.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "SF_009",
+          "name": "Hostility",
+          "score": 4,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hostility.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "Yeah, every time he swings his sword, I get hit. But sometimes he does it fast and other times slow.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_118",
+          "name": "Macronutrient ratio: fat",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of macronutrient ratio: fat.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_186",
+          "name": "Affinity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of affinity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_004",
+          "name": "Psychological construct: Social Desirability tendency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: social desirability tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_160",
+          "name": "Conservatism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conservatism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_013",
+          "name": "Determinedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of determinedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_025",
+          "name": "Talkativeness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of talkativeness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_247",
+          "name": "788. Kabbalah sephira balance: Tiferet",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 788. kabbalah sephira balance: tiferet.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_005",
+          "name": "Dishonesty",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dishonesty.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_009",
+          "name": "Hostility",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hostility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "That can be tough! Have you tried recording a video of the fight to analyze the timing? Sometimes se",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 4,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 4,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_118",
+          "name": "Macronutrient ratio: fat",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of macronutrient ratio: fat.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_186",
+          "name": "Affinity",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of affinity.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_004",
+          "name": "Psychological construct: Social Desirability tendency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: social desirability tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_160",
+          "name": "Conservatism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of conservatism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_013",
+          "name": "Determinedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of determinedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_025",
+          "name": "Talkativeness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of talkativeness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_247",
+          "name": "788. Kabbalah sephira balance: Tiferet",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 788. kabbalah sephira balance: tiferet.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_005",
+          "name": "Dishonesty",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dishonesty.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_009",
+          "name": "Hostility",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hostility.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "I haven't thought about that. I'll give it a try and see if I can spot any patterns. Thanks for the ",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 1,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 3,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_118",
+          "name": "Macronutrient ratio: fat",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of macronutrient ratio: fat.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_186",
+          "name": "Affinity",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of affinity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_004",
+          "name": "Psychological construct: Social Desirability tendency",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of psychological construct: social desirability tendency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_160",
+          "name": "Conservatism",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of conservatism.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_013",
+          "name": "Determinedness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of determinedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_025",
+          "name": "Talkativeness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of talkativeness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_247",
+          "name": "788. Kabbalah sephira balance: Tiferet",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 788. kabbalah sephira balance: tiferet.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_005",
+          "name": "Dishonesty",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dishonesty.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_009",
+          "name": "Hostility",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of hostility.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 5,
+      "speaker": "assistant",
+      "text_preview": "You're welcome! And don't hesitate to ask if you need more help or tips. Good luck, and have fun!",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Assessed based on structure, length, and vocabulary."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Assessed based on communicative effectiveness."
+        },
+        "Safety": {
+          "score": 2,
+          "rationale": "Assessed based on language safety signals."
+        },
+        "Emotion": {
+          "score": 3,
+          "rationale": "Assessed based on emotional language signals."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_118",
+          "name": "Macronutrient ratio: fat",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of macronutrient ratio: fat.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of value orientation: universalism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_186",
+          "name": "Affinity",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of affinity.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_145",
+          "name": "Dauntlessness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of dauntlessness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_001",
+          "name": "Naivety",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of naivety.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_276",
+          "name": "Trust in others",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of trust in others.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_250",
+          "name": "Genialness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of genialness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_206",
+          "name": "737. I Ching hexagram 19 resonance level",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of 737. i ching hexagram 19 resonance level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_079",
+          "name": "SelfDirectedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of selfdirectedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_093",
+          "name": "Psychological construct: Need for Achievement level",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: need for achievement level.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_031",
+          "name": "Chivalrousness",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of chivalrousness.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_004",
+          "name": "Psychological construct: Social Desirability tendency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: social desirability tendency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_190",
+          "name": "Courageousness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of courageousness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of cooperation.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of perseverance.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_273",
+          "name": "Defense-mechanism tendency: Introjection",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of defense-mechanism tendency: introjection.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_160",
+          "name": "Conservatism",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of conservatism.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_013",
+          "name": "Determinedness",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of determinedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_064",
+          "name": "Synthesis of information",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of synthesis of information.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_025",
+          "name": "Talkativeness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of talkativeness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_021",
+          "name": "Big-heartedness",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of big-heartedness.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_154",
+          "name": "Self-effacement",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of self-effacement.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_022",
+          "name": "Compulsive activities",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of compulsive activities.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_247",
+          "name": "788. Kabbalah sephira balance: Tiferet",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of 788. kabbalah sephira balance: tiferet.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of understanding mathematical concepts.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_005",
+          "name": "Dishonesty",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of dishonesty.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_009",
+          "name": "Hostility",
+          "score": 4,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of hostility.",
+          "raw_scores": [
+            4
+          ]
+        },
+        {
+          "facet_id": "LQ_092",
+          "name": "Psychological construct: Operant-Learning rate",
+          "score": 3,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of psychological construct: operant-learning rate.",
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_207",
+          "name": "Robotics-interaction frequency",
+          "score": 2,
+          "confidence": 0.67,
+          "rationale": "Heuristic assessment of robotics-interaction frequency.",
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 2,
+          "confidence": 1.0,
+          "rationale": "Heuristic assessment of control over situations.",
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 0.005,
+  "model_used": "heuristic_baseline",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic_heuristic"
+}
