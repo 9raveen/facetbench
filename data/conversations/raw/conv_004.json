@@ -1,0 +1,31 @@
+{
+  "topic": "career advice for a student",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I'm really confused about my future career path. I've been thinking of becoming a software developer, but I'm not sure if it's the right choice.",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "That\u2019s a common concern! Software development is definitely a growing field with lots of opportunities. Have you considered what aspects of coding interest you the most?",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "I like problem-solving and creating things, but I'm also worried about competition in this field.",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "It\u2019s great that you have interests! Competition can be tough, but it's also important to focus on your unique skills and what sets you apart. Have you thought about any specific areas of software development that interest you more?",
+      "turn_index": 3
+    },
+    {
+      "speaker": "user",
+      "text": "I'm not sure yet. Should I just pick a general area or specialize in something right away?",
+      "turn_index": 4
+    }
+  ],
+  "conversation_id": "conv_004"
+}

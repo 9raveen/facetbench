@@ -1,0 +1,36 @@
+{
+  "topic": "conflict between friends",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I feel like I've been avoiding my best friend for weeks now. We used to be so close, but lately, it feels like we're drifting apart.",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "That must be really tough. Can you tell me more about what's going on? What do you think caused the change in your relationship?",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "Well, she got a new job and moved to another city for it. I was happy for her at first, but then we started talking less and less. Now, when we do talk, there's this awkward silence between us.",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "That does sound pretty tough. It's normal to feel a bit lost in these situations. Have you tried reaching out to her or sharing your feelings with her?",
+      "turn_index": 3
+    },
+    {
+      "speaker": "user",
+      "text": "I have, but it feels like she doesn't really care anymore. She just brushes off my calls and messages. I don't know what else to do.",
+      "turn_index": 4
+    },
+    {
+      "speaker": "assistant",
+      "text": "It's understandable that you're feeling hurt. Maybe consider giving her some space for now while also expressing your feelings in a calm way. Sometimes, people need time to process changes too.",
+      "turn_index": 5
+    }
+  ],
+  "conversation_id": "conv_033"
+}

@@ -1,0 +1,26 @@
+{
+  "topic": "understanding insurance policies",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I just bought a new car and need to understand my insurance policy better. Can you help me figure out what it covers?",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "Of course! Let's start by looking at the basic coverage types: liability, collision, and comprehensive. Which one are you most concerned about?",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "I'm a bit worried about collision coverage. What does that actually mean?",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "Collision coverage pays for damage to your car when it collides with another object, including hitting something stationary like a tree or pole. It also covers damage from an accident where you're at fault.",
+      "turn_index": 3
+    }
+  ],
+  "conversation_id": "conv_046"
+}

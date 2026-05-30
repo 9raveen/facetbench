@@ -1,0 +1,26 @@
+{
+  "topic": "relationship advice for teens",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I'm having trouble with my girlfriend. She's always upset and we fight a lot. What should I do?",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "It sounds like you're in a tough spot. Have you tried talking to her about how you feel? Sometimes open communication can help clear things up.",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "We've talked, but it never seems to work. She's just so emotional and I don't know what she wants from me.",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "That must be really frustrating for you. It might help if you both set some ground rules or boundaries about how you handle conflicts. Maybe consider seeing a counselor together?",
+      "turn_index": 3
+    }
+  ],
+  "conversation_id": "conv_029"
+}

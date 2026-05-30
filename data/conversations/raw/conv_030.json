@@ -1,0 +1,26 @@
+{
+  "topic": "coping with job loss",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I just got laid off from my job. I feel so lost and unsure of what to do next.",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "I'm really sorry to hear that. Losing a job can be really tough. It's completely normal to feel overwhelmed right now.",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "Yeah, it feels like everything is just falling apart. I don't even know where to start with finding another job.",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "It's okay to take some time to process your feelings first. Have you thought about reaching out to a career counselor or attending a job fair?",
+      "turn_index": 3
+    }
+  ],
+  "conversation_id": "conv_030"
+}

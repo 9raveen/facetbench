@@ -1,0 +1,26 @@
+{
+  "topic": "college application essay help",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I need help with college application essay help.",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "I'd be happy to help you with college application essay help. Could you tell me more about your specific situation?",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "I've been struggling with this for a while and don't know where to start.",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "That's completely understandable. Let's break this down step by step so it feels more manageable.",
+      "turn_index": 3
+    }
+  ],
+  "conversation_id": "conv_034"
+}

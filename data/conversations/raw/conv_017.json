@@ -1,0 +1,36 @@
+{
+  "topic": "parenting advice",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I'm really struggling with my teenager. They're always on their phone and seem to be ignoring me.",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "That can definitely feel frustrating. Have you tried setting some ground rules about screen time? It might help create a clearer boundary.",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "I've tried that, but it just seems like I'm not being heard. They get really defensive.",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "It's understandable to feel frustrated when your efforts aren't working. Maybe try having an open conversation about why you're setting these rules and what you hope to achieve together.",
+      "turn_index": 3
+    },
+    {
+      "speaker": "user",
+      "text": "That sounds like a good idea, but I'm not sure how to approach the conversation without it turning into an argument.",
+      "turn_index": 4
+    },
+    {
+      "speaker": "assistant",
+      "text": "Starting with 'I' statements can help keep the tone positive. For example, you could say something like, 'I feel concerned when we don't have much time together because I value our relationship.'",
+      "turn_index": 5
+    }
+  ],
+  "conversation_id": "conv_017"
+}

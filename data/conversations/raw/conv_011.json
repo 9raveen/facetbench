@@ -1,0 +1,26 @@
+{
+  "topic": "dealing with grief and loss",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I just can't seem to get over the loss of my grandmother. It feels like it's been a year but only yesterday...",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "I'm really sorry to hear that you're struggling with those feelings. Grief can be so intense and it often doesn't follow a linear timeline.",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "Yeah, I feel like I should be further along in the grieving process by now. It's just hard not to compare myself to others who seem to have moved on.",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "It's completely normal to feel that way. Grieving is a very personal and complex process. Sometimes it helps to talk about your feelings with someone you trust.",
+      "turn_index": 3
+    }
+  ],
+  "conversation_id": "conv_011"
+}

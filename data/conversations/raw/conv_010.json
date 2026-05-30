@@ -1,0 +1,36 @@
+{
+  "topic": "job interview preparation",
+  "turns": [
+    {
+      "speaker": "user",
+      "text": "I'm really nervous about my upcoming job interview. I've prepared a lot, but it's still hard to shake the anxiety.",
+      "turn_index": 0
+    },
+    {
+      "speaker": "assistant",
+      "text": "It's completely normal to feel that way! Have you practiced your responses to common interview questions?",
+      "turn_index": 1
+    },
+    {
+      "speaker": "user",
+      "text": "Yeah, I've done some practice with my friend. But what if they ask something unexpected or tricky?",
+      "turn_index": 2
+    },
+    {
+      "speaker": "assistant",
+      "text": "That\u2019s a good point. Just remember to stay calm and take your time to think before answering. They\u2019re looking for how you handle the situation, not just the right answer.",
+      "turn_index": 3
+    },
+    {
+      "speaker": "user",
+      "text": "You're right, I should focus on my process of thinking through it rather than getting too stressed about the outcome.",
+      "turn_index": 4
+    },
+    {
+      "speaker": "assistant",
+      "text": "Exactly! And remember to breathe and stay positive. You've done your homework, so you\u2019re well-prepared. Good luck!",
+      "turn_index": 5
+    }
+  ],
+  "conversation_id": "conv_010"
+}
