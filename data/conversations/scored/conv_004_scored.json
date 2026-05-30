@@ -1,0 +1,1632 @@
+{
+  "conversation_id": "conv_004",
+  "topic": "career advice for a student",
+  "total_turns": 5,
+  "overall_score": 0.77,
+  "category_averages": {
+    "Linguistic Quality": 3.0,
+    "Pragmatics": 2.8,
+    "Safety": 0.4,
+    "Emotion": 1.4
+  },
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I'm really confused about my future career path. I've been thinking of becoming a software developer",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "The sentence is clear and conveys a coherent thought with appropriate vocabulary and structure."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "The speaker expresses uncertainty about a future career choice, indicating pragmatic considerations."
+        },
+        "Safety": {
+          "score": 0,
+          "rationale": "The user's concern is about career choice, not safety."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "The speaker expresses uncertainty and confusion, indicating a moderate emotional presence."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_302",
+          "name": "Computer Skills",
+          "score": 1,
+          "rationale": "Mention of software developer indicates some computer skills but not strongly expressed.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "SF_004",
+          "name": "Creative risk-taking tendency",
+          "score": 2,
+          "rationale": "Expressing confusion shows a moderate level of creative risk-taking tendency.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 0,
+          "rationale": "No mention of financial apps or games.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_087",
+          "name": "Numeric Filing Skills",
+          "score": 0,
+          "rationale": "No numeric filing skills mentioned.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 2,
+          "rationale": "Confusion about career choice indicates a moderate level of risk-taking tendency.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_010",
+          "name": "Specialist",
+          "score": 0,
+          "rationale": "Interest in software development suggests some specialization but not strongly expressed.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_032",
+          "name": "Decision-making speed",
+          "score": 0,
+          "rationale": "No indication of decision-making speed or urgency.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_278",
+          "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
+          "score": 0,
+          "rationale": "No mention of Buddhist practices or the eightfold path.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_051",
+          "name": "Alphabetical filing skills",
+          "score": 0,
+          "rationale": "No alphabetical filing skills mentioned.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 1,
+          "rationale": "No indication of seeking adventure or new experiences in the career choice dilemma.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_101",
+          "name": "Arts and Humanities",
+          "score": 0,
+          "rationale": "The conversation turn does not mention any arts or humanities topics.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_179",
+          "name": "Soft-skill training hours",
+          "score": 0,
+          "rationale": "There is no reference to soft-skill training in the conversation turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_119",
+          "name": "Cooking and Culinary Arts",
+          "score": 0,
+          "rationale": "The conversation turn does not involve any cooking or culinary arts topics.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_272",
+          "name": "Troubleshooting technical issues",
+          "score": 0,
+          "rationale": "There is no mention of troubleshooting technical problems in the conversation turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 0,
+          "rationale": "The conversation turn does not discuss eco-tourism or related activities.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 2,
+          "rationale": "The speaker shows an attitude of seeking guidance and improvement in their career path.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_234",
+          "name": "Motivational Drivers",
+          "score": 1,
+          "rationale": "The speaker is motivated by the desire to pursue a specific career but is uncertain about it.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_152",
+          "name": "Storytelling proficiency",
+          "score": 0,
+          "rationale": "There is no storytelling involved in this conversation turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_072",
+          "name": "Skill-endorsements count",
+          "score": 0,
+          "rationale": "The conversation does not mention any skill endorsements or counts.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_067",
+          "name": "Sleep-disorder diagnosis",
+          "score": 0,
+          "rationale": "There is no reference to sleep disorders in the conversation turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_153",
+          "name": "Music-lessons years",
+          "score": 0,
+          "rationale": "No mention of music lessons or years.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_038",
+          "name": "Achievement Motivation",
+          "score": 2,
+          "rationale": "Expresses uncertainty about career choice, indicating some motivation but not strong.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_037",
+          "name": "Decision-Making Confidence",
+          "score": 1,
+          "rationale": "Confusion about future path suggests low confidence in decision-making.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_237",
+          "name": "872. Islamic practice: Seerah study hours",
+          "score": 0,
+          "rationale": "No mention of Islamic practices or Seerah study hours.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_213",
+          "name": "890. Hindu spiritual metric: Bhagavad-Gita study hours",
+          "score": 0,
+          "rationale": "No mention of Hindu spiritual metrics or Bhagavad-Gita study hours.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 2,
+          "rationale": "Mentioning consideration for a career path shows some level of perseverance in thinking about the future.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_052",
+          "name": "Work Styles",
+          "score": 1,
+          "rationale": "Referring to software development as a potential career indicates some work style considerations.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 0,
+          "rationale": "No mention of energy healing practices or Reiki sessions.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "SF_020",
+          "name": "Polygenic risk: cardiovascular disease",
+          "score": 0,
+          "rationale": "No mention of polygenic risk or cardiovascular disease.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_219",
+          "name": "Blog-subscriber count",
+          "score": 0,
+          "rationale": "No mention of blog subscriber counts.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "speaker": "assistant",
+      "text_preview": "That\u2019s a common concern! Software development is definitely a growing field with lots of opportuniti",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "The response is clear and relevant, showing a good understanding of the topic and providing useful follow-up questions."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "The response addresses the user's concern pragmatically by providing relevant information and suggesting a follow-up question."
+        },
+        "Safety": {
+          "score": 0,
+          "rationale": "The conversation turn does not address any safety concerns."
+        },
+        "Emotion": {
+          "score": 1,
+          "rationale": "The response is neutral and does not convey any specific emotion."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_302",
+          "name": "Computer Skills",
+          "score": 2,
+          "rationale": "Mention of software development indicates some computer skills but not detailed.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 0,
+          "rationale": "No mention of gamified-finance-apps.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "SF_004",
+          "name": "Creative risk-taking tendency",
+          "score": 1,
+          "rationale": "No indication of creative risk-taking tendency.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_087",
+          "name": "Numeric Filing Skills",
+          "score": 0,
+          "rationale": "No mention of numeric filing skills.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_290",
+          "name": "Creative resilience",
+          "score": 1,
+          "rationale": "No indication of creative resilience.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_091",
+          "name": "Big Five facet Openness \u2013 Artistic Interests",
+          "score": 1,
+          "rationale": "No mention of artistic interests.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_272",
+          "name": "Troubleshooting technical issues",
+          "score": 0,
+          "rationale": "No indication of troubleshooting technical issues.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_214",
+          "name": "Open-source contributions",
+          "score": 0,
+          "rationale": "No mention of open-source contributions.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_183",
+          "name": "Kink-interest diversity",
+          "score": 0,
+          "rationale": "No indication of kink-interest diversity.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 1,
+          "rationale": "No mention of adventure-seeking behavior.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_051",
+          "name": "Alphabetical filing skills",
+          "score": 0,
+          "rationale": "There is no mention of alphabetical filing or organization.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 0,
+          "rationale": "The response does not indicate any creative solutions or approaches.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 0,
+          "rationale": "No innovation or creativity components are evident in the response.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_015",
+          "name": "Peer-collaboration hours",
+          "score": 0,
+          "rationale": "There is no mention of peer collaboration or related activities.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_179",
+          "name": "Soft-skill training hours",
+          "score": 0,
+          "rationale": "No reference to soft-skill training is present in the response.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_014",
+          "name": "Need for social interaction",
+          "score": 0,
+          "rationale": "The conversation does not imply a need for social interaction.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_057",
+          "name": "Hardworking",
+          "score": 2,
+          "rationale": "The response suggests software development is growing and full of opportunities, implying hard work may be required.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 1,
+          "rationale": "The topic of coding might not inherently be boring to everyone, but the response does not address this directly.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_196",
+          "name": "Ideas generated/day",
+          "score": 0,
+          "rationale": "No mention of generating ideas is present in the conversation turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_171",
+          "name": "Significance: Desire to make an impact",
+          "score": 2,
+          "rationale": "The response suggests opportunities exist but does not specifically address a desire to make an impact.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_115",
+          "name": "Childhood Experiences",
+          "score": 0,
+          "rationale": "There is no mention of childhood experiences.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_032",
+          "name": "Decision-making speed",
+          "score": 0,
+          "rationale": "No indication of decision-making speed is present.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 0,
+          "rationale": "No reference to volunteer work is found in the turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 3,
+          "rationale": "The assistant positively frames software development as a growing field with opportunities, indicating an encouraging attitude toward learning.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_203",
+          "name": "Participation in Community Activities",
+          "score": 0,
+          "rationale": "No mention of community activities is present.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_101",
+          "name": "Arts and Humanities",
+          "score": 0,
+          "rationale": "There is no reference to arts or humanities in the turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_284",
+          "name": "Home-security-system presence",
+          "score": 0,
+          "rationale": "No mention of home security systems is present.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "EM_029",
+          "name": "Fearfulness: Fear of physical dangers",
+          "score": 0,
+          "rationale": "The turn does not express any fear related to physical dangers.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_222",
+          "name": "Peer-to-peer lending usage",
+          "score": 0,
+          "rationale": "No reference to peer-to-peer lending is found in the turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_015",
+          "name": "Relationship Building Themes",
+          "score": 1,
+          "rationale": "The assistant asks a question that indirectly builds a relationship by showing interest in the speaker's preferences. ",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "speaker": "user",
+      "text_preview": "I like problem-solving and creating things, but I'm also worried about competition in this field.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "The statement effectively conveys a balanced perspective with clear and coherent language."
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "The statement shows a balanced perspective but lacks clear pragmatic strategies or solutions."
+        },
+        "Safety": {
+          "score": 1,
+          "rationale": "The concern about competition is related to professional safety but not directly to physical or personal safety."
+        },
+        "Emotion": {
+          "score": 2,
+          "rationale": "The speaker expresses both positive and negative emotions, indicating a moderate, inconsistent emotional state."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_054",
+          "name": "Competition",
+          "score": 2,
+          "rationale": "Mentioned concern about competition.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 1,
+          "rationale": "No explicit mention of pure challenge or problem-solving approach.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 2,
+          "rationale": "Indicated interest in creating things, which implies some level of creativity.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_004",
+          "name": "Creative risk-taking tendency",
+          "score": 1,
+          "rationale": "No explicit mention of taking risks or creative risk-taking tendency.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 0,
+          "rationale": "No mention of gamified finance app usage.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_057",
+          "name": "Hardworking",
+          "score": 1,
+          "rationale": "No explicit mention of being hardworking.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_125",
+          "name": "Understanding Mathematical Concepts",
+          "score": 0,
+          "rationale": "No indication or discussion of mathematical concepts.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 1,
+          "rationale": "No explicit mention of taking risks or risk-taking tendency.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_150",
+          "name": "Understanding mechanical concepts",
+          "score": 0,
+          "rationale": "No indication or discussion of mechanical concepts.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_032",
+          "name": "Decision-making speed",
+          "score": 0,
+          "rationale": "No mention of decision-making speed or process.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 2,
+          "rationale": "Mentions problem-solving and creating things, indicating some creativity but not explicitly innovative ideas.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 1,
+          "rationale": "No clear indication of boredom susceptibility; the statement is more about personal interests and concerns.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_091",
+          "name": "Big Five facet Openness \u2013 Artistic Interests",
+          "score": 2,
+          "rationale": "Mentions creating things, which could be seen as an artistic interest but not strongly emphasized.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_234",
+          "name": "Motivational Drivers",
+          "score": 3,
+          "rationale": "Expresses both problem-solving and competition concerns, indicating clear motivational drivers.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_302",
+          "name": "Computer Skills",
+          "score": 0,
+          "rationale": "No mention of computer skills or technology use.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_226",
+          "name": "Attitude toward learning",
+          "score": 1,
+          "rationale": "No explicit statement about the attitude towards learning; only concerns are mentioned.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_087",
+          "name": "Numeric Filing Skills",
+          "score": 0,
+          "rationale": "No mention of numeric filing skills or data management.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 1,
+          "rationale": "No indication of seeking adventure; the statement is more about personal interests and concerns.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_266",
+          "name": "Numerical Reasoning",
+          "score": 0,
+          "rationale": "No numerical reasoning or data analysis mentioned.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_110",
+          "name": "Evaluating Solutions",
+          "score": 1,
+          "rationale": "Mentions competition concerns, which could imply evaluating solutions but not strongly focused on it.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "PR_010",
+          "name": "Encouraging participation",
+          "score": 2,
+          "rationale": "The speaker expresses personal interests but does not encourage others to participate.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_037",
+          "name": "Decision-Making Confidence",
+          "score": 1,
+          "rationale": "The speaker shows some interest in problem-solving but lacks confidence in making decisions.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "EM_029",
+          "name": "Fearfulness: Fear of physical dangers",
+          "score": 0,
+          "rationale": "There is no mention of fear related to physical dangers.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_034",
+          "name": "Cooperation",
+          "score": 1,
+          "rationale": "The speaker does not explicitly express a desire for cooperation or collaboration.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 2,
+          "rationale": "The speaker acknowledges concerns but shows some level of control over their interests and fears.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_038",
+          "name": "Achievement Motivation",
+          "score": 3,
+          "rationale": "The speaker expresses a desire to solve problems and create things, indicating strong achievement motivation.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_290",
+          "name": "Creative resilience",
+          "score": 3,
+          "rationale": "The speaker shows interest in problem-solving and creating things, which suggests creative resilience.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_272",
+          "name": "Troubleshooting technical issues",
+          "score": 0,
+          "rationale": "There is no mention of troubleshooting or technical issues.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_294",
+          "name": "Economic reasoning",
+          "score": 1,
+          "rationale": "The speaker mentions competition but does not show strong economic reasoning skills.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_017",
+          "name": "Numerical Reasoning Subcomponents",
+          "score": 0,
+          "rationale": "There is no mention of numerical or mathematical content in the conversation turn.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "speaker": "assistant",
+      "text_preview": "It\u2019s great that you have interests! Competition can be tough, but it's also important to focus on yo",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "The response is clear and relevant to the context, providing constructive advice with a neutral tone."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "The response provides practical advice and prompts for further discussion in a relevant manner."
+        },
+        "Safety": {
+          "score": 0,
+          "rationale": "The conversation turn does not address any safety-related topics or concerns."
+        },
+        "Emotion": {
+          "score": 1,
+          "rationale": "The response maintains a neutral tone and does not convey any strong emotional content."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_302",
+          "name": "Computer Skills",
+          "score": 1,
+          "rationale": "Mention of software development indicates some computer skills but not explicitly detailed.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 0,
+          "rationale": "No mention of gamified finance apps.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_054",
+          "name": "Competition",
+          "score": 3,
+          "rationale": "Directly addresses competition in the job market.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_087",
+          "name": "Numeric Filing Skills",
+          "score": 0,
+          "rationale": "No mention of numeric filing skills.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_091",
+          "name": "Big Five facet Openness \u2013 Artistic Interests",
+          "score": 2,
+          "rationale": "Refers to interests which can be related to openness but not specifically artistic interests.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_016",
+          "name": "Pure Challenge",
+          "score": 3,
+          "rationale": "Acknowledges the challenge of competition but does not emphasize pure challenge.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "SF_004",
+          "name": "Creative risk-taking tendency",
+          "score": 2,
+          "rationale": "Mention of unique skills implies some level of creative thinking but not explicit risk-taking tendency.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 3,
+          "rationale": "Refers to focusing on unique skills which can be related to innovation and creativity.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_038",
+          "name": "Achievement Motivation",
+          "score": 2,
+          "rationale": "The discussion about competition and unique skills suggests a drive for achievement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_179",
+          "name": "Soft-skill training hours",
+          "score": 0,
+          "rationale": "No mention of soft-skill training hours.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_007",
+          "name": "Listening Skills Subcomponents",
+          "score": 1,
+          "rationale": "The assistant does not directly reference the speaker's interests or show active listening through rephrasing or acknowledgment.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_051",
+          "name": "Alphabetical filing skills",
+          "score": 0,
+          "rationale": "There is no mention of organizing information alphabetically.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 0,
+          "rationale": "The assistant does not encourage or discuss taking risks.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 0,
+          "rationale": "There is no mention of seeking new experiences or challenges.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_010",
+          "name": "Encouraging participation",
+          "score": 3,
+          "rationale": "The assistant encourages the speaker to think about their specific interests in software development.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_234",
+          "name": "Kink-interest diversity",
+          "score": 0,
+          "rationale": "There is no mention of interest diversity or kinks.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_183",
+          "name": "Significance: Desire to make an impact",
+          "score": 2,
+          "rationale": "The assistant suggests focusing on unique skills but does not explicitly emphasize making a significant impact.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_203",
+          "name": "Participation in Community Activities",
+          "score": 0,
+          "rationale": "There is no mention of community activities or involvement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_010",
+          "name": "Specialist",
+          "score": 0,
+          "rationale": "The assistant does not suggest becoming a specialist in any particular area.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "EM_008",
+          "name": "Enthusiasm",
+          "score": 2,
+          "rationale": "The assistant shows enthusiasm for the speaker's interests.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_032",
+          "name": "Decision-making speed",
+          "score": 1,
+          "rationale": "No indication of urgency or quick decision-making is present.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 1,
+          "rationale": "The assistant's response does not suggest any signs of boredom.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_057",
+          "name": "Hardworking",
+          "score": 2,
+          "rationale": "The suggestion to focus on unique skills implies a level of hard work but is not strongly emphasized.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_122",
+          "name": "Creativity in solutions",
+          "score": 3,
+          "rationale": "The assistant suggests focusing on unique skills and areas of interest, which shows some creativity.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "PR_015",
+          "name": "Peer-collaboration hours",
+          "score": 0,
+          "rationale": "There is no mention or implication of peer collaboration in the response.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_024",
+          "name": "Initiative",
+          "score": 3,
+          "rationale": "The assistant takes an active role by suggesting areas of interest and skills to focus on.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_075",
+          "name": "Intrinsic Motivation",
+          "score": 2,
+          "rationale": "The response indirectly supports intrinsic motivation by encouraging self-discovery and skill development.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_196",
+          "name": "Ideas generated/day",
+          "score": 0,
+          "rationale": "There is no mention or implication of idea generation frequency in the response.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_165",
+          "name": "Perseverance",
+          "score": 2,
+          "rationale": "The assistant suggests focusing on unique skills and areas of interest, which implies a level of perseverance but is not strongly emphasized.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "speaker": "user",
+      "text_preview": "I'm not sure yet. Should I just pick a general area or specialize in something right away?",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "The turn demonstrates clear and relevant communication about decision-making."
+        },
+        "Pragmatics": {
+          "score": 3,
+          "rationale": "The speaker is seeking advice on a decision-making process, showing an awareness of different options and their implications."
+        },
+        "Safety": {
+          "score": 1,
+          "rationale": "The speaker's query about specialization vs. generalization is neutral and does not directly address safety concerns."
+        },
+        "Emotion": {
+          "score": 1,
+          "rationale": "The speaker's statement shows a neutral and slightly uncertain emotion."
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "LQ_010",
+          "name": "Specialist",
+          "score": 2,
+          "rationale": "The user is considering whether to specialize or not, indicating a moderate level of thought towards specialization.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_045",
+          "name": "Spatial perception",
+          "score": 0,
+          "rationale": "There is no mention of spatial concepts or perceptions in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_119",
+          "name": "Cooking and Culinary Arts",
+          "score": 0,
+          "rationale": "The conversation does not relate to cooking or culinary arts.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_091",
+          "name": "Big Five facet Openness \u2013 Artistic Interests",
+          "score": 2,
+          "rationale": "Considering the choice between general and specialized areas shows some openness to exploring different interests.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_244",
+          "name": "Museum visits/year",
+          "score": 0,
+          "rationale": "There is no mention of museum visits or related activities in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_101",
+          "name": "Arts and Humanities",
+          "score": 2,
+          "rationale": "The consideration of specialization touches on arts and humanities by implication.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_203",
+          "name": "Participation in Community Activities",
+          "score": 0,
+          "rationale": "There is no mention of community activities or participation in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_200",
+          "name": "Public-transport km/week",
+          "score": 0,
+          "rationale": "The conversation does not involve any reference to public transportation usage.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_277",
+          "name": "Gamified-finance-app usage",
+          "score": 0,
+          "rationale": "There is no mention of financial apps or gamification in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_183",
+          "name": "Kink-interest diversity",
+          "score": 0,
+          "rationale": "The conversation does not relate to kinks or interests related to kinks or fetishes.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_138",
+          "name": "Volunteer Work",
+          "score": 0,
+          "rationale": "No mention of volunteer work.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_164",
+          "name": "Value orientation: Universalism",
+          "score": 0,
+          "rationale": "No indication of universalist values expressed.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_052",
+          "name": "Work Styles",
+          "score": 2,
+          "rationale": "Refers to specialization and general area selection, indicating some work style considerations.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_030",
+          "name": "Eco-tourism trips",
+          "score": 0,
+          "rationale": "No mention of eco-tourism trips.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "607. Energy-healing practice: Reiki sessions / year",
+          "score": 0,
+          "rationale": "No reference to energy healing or reiki practices.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_177",
+          "name": "Local-food sourcing %",
+          "score": 0,
+          "rationale": "No mention of local food sourcing.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_058",
+          "name": "Preferred epistemology",
+          "score": 0,
+          "rationale": "No indication of preferred epistemology expressed.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_196",
+          "name": "Ideas generated/day",
+          "score": 0,
+          "rationale": "No mention of idea generation rate.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_009",
+          "name": "Adventure-Seeking Behavior",
+          "score": 0,
+          "rationale": "No indication of adventure-seeking behavior expressed.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_032",
+          "name": "Decision-making speed",
+          "score": 1,
+          "rationale": "Expresses uncertainty and indecision about specialization vs. general area selection.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_120",
+          "name": "Dance-style mastery diversity",
+          "score": 0,
+          "rationale": "The user's statement is unrelated to dance-style mastery diversity.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_179",
+          "name": "Soft-skill training hours",
+          "score": 0,
+          "rationale": "The user's statement does not indicate any discussion of soft-skill training hours.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_006",
+          "name": "Leadership Potential",
+          "score": 1,
+          "rationale": "The user is considering specialization which could imply a certain level of leadership potential.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_274",
+          "name": "Travel-companions diversity",
+          "score": 0,
+          "rationale": "There is no mention of travel companions or their diversity in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Risktaking",
+          "score": 1,
+          "rationale": "The user is considering options which could indicate a willingness to take on some risk.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
+          "facet_id": "LQ_037",
+          "name": "Innovation and Creativity Components",
+          "score": 2,
+          "rationale": "There is no indication of innovation or creativity in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_181",
+          "name": "Preference for Home-Cooked vs Restaurant Meals",
+          "score": 0,
+          "rationale": "The user's statement does not relate to food preferences.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "PR_005",
+          "name": "Decision-making decisiveness",
+          "score": 2,
+          "rationale": "The user is considering options which shows some level of decision-making process but indecisive.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_071",
+          "name": "Organized lifestyle",
+          "score": 0,
+          "rationale": "There is no indication of an organized lifestyle in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_094",
+          "name": "Material properties knowledge",
+          "score": 0,
+          "rationale": "The user's statement does not pertain to material properties knowledge.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_time_sec": 1833.3,
+  "model_used": "qwen2.5:7b",
+  "facets_scored": 30
+}
