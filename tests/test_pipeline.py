@@ -158,3 +158,57 @@ class TestVectorDB:
         ids_a = set(f["facet_id"] for f in results_a)
         ids_b = set(f["facet_id"] for f in results_b)
         assert ids_a != ids_b
+
+class TestLangGraphPipeline:
+
+    def test_pipeline_compiles(self):
+        """Instant — no LLM call."""
+        from src.pipeline.graph import pipeline
+        assert pipeline is not None
+
+    def test_pipeline_has_correct_nodes(self):
+        """Instant — no LLM call."""
+        from src.pipeline.graph import pipeline
+        expected_nodes = [
+            "__start__", "preprocess", "feature_extraction",
+            "facet_retrieval", "category_evaluation", "facet_evaluation",
+            "score_aggregation", "output_formatting"
+        ]
+        actual_nodes = list(pipeline.nodes.keys())
+        for node in expected_nodes:
+            assert node in actual_nodes, f"Missing node: {node}"
+
+    @pytest.mark.slow
+    def test_run_langgraph_returns_dict(self):
+        from src.pipeline.graph import run_langgraph_pipeline
+        result = run_langgraph_pipeline(SAMPLE_CONVERSATION)
+        assert isinstance(result, dict)
+
+    @pytest.mark.slow
+    def test_run_langgraph_has_required_keys(self):
+        from src.pipeline.graph import run_langgraph_pipeline
+        result = run_langgraph_pipeline(SAMPLE_CONVERSATION)
+        required = [
+            "conversation_id", "overall_score", "category_averages",
+            "turn_scores", "scoring_mode", "processing_time_sec"
+        ]
+        for key in required:
+            assert key in result, f"Missing key: {key}"
+
+    @pytest.mark.slow
+    def test_scoring_mode_is_langgraph(self):
+        from src.pipeline.graph import run_langgraph_pipeline
+        result = run_langgraph_pipeline(SAMPLE_CONVERSATION)
+        assert result["scoring_mode"] == "langgraph"
+
+    @pytest.mark.slow
+    def test_overall_score_in_range(self):
+        from src.pipeline.graph import run_langgraph_pipeline
+        result = run_langgraph_pipeline(SAMPLE_CONVERSATION)
+        assert 0 <= result["overall_score"] <= 4
+
+    @pytest.mark.slow
+    def test_conversation_id_preserved(self):
+        from src.pipeline.graph import run_langgraph_pipeline
+        result = run_langgraph_pipeline(SAMPLE_CONVERSATION)
+        assert result["conversation_id"] == "test_001"

@@ -31,7 +31,7 @@ class ConversationRequest(BaseModel):
     conversation_id: str
     topic: Optional[str] = ""
     turns: List[Turn]
-    mode: Optional[str] = "synthetic"  # "synthetic" | "fast" | "full"
+    mode: Optional[str] = "synthetic"  # "synthetic" | "fast" | "full" | "langgraph"
 
 class ConversationScore(BaseModel):
     conversation_id: str
@@ -108,10 +108,12 @@ def score_conversation_endpoint(request: ConversationRequest):
     elif mode == "fast":
         from src.scoring.evaluator import score_conversation_fast
         result = score_conversation_fast(conv_dict)
+    elif mode == "langgraph":
+        from src.pipeline.graph import run_langgraph_pipeline
+        result = run_langgraph_pipeline(conv_dict)
     else:
         from src.scoring.synthetic_scorer import score_conversation_synthetic
         result = score_conversation_synthetic(conv_dict, FACETS)
-
     return ConversationScore(
         conversation_id=result["conversation_id"],
         topic=result.get("topic", ""),

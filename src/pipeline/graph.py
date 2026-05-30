@@ -1,7 +1,7 @@
 # src/pipeline/graph.py
-# src/pipeline/graph.py
 import sys
 import os
+import time
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
 
 from langgraph.graph import StateGraph, END
@@ -38,8 +38,57 @@ def build_pipeline():
 
     return workflow.compile()
 
-# Build at import time
 pipeline = build_pipeline()
+
+def run_langgraph_pipeline(conversation: dict) -> dict:
+    """
+    Entry point for FastAPI.
+    Takes conversation dict, runs full LangGraph pipeline,
+    returns standardized score output.
+    """
+    start = time.time()
+
+    initial_state = ConversationState(
+        conversation_id=conversation.get("conversation_id", "unknown"),
+        raw_turns=conversation.get("turns", []),
+        processed_turns=[],
+        relevant_facets={},
+        category_scores={},
+        facet_scores={},
+        final_scores={},
+        errors=[],
+        processing_time_sec=0.0
+    )
+
+    final_state = pipeline.invoke(initial_state)
+
+    elapsed = round(time.time() - start, 2)
+    final_scores = final_state.get("final_scores", {})
+
+    # Build standardized output matching other scoring modes
+    turn_scores = []
+    for turn in final_state.get("processed_turns", []):
+        idx = turn["turn_index"]
+        turn_scores.append({
+            "turn_index": idx,
+            "speaker": turn["speaker"],
+            "text_preview": turn["text"][:100],
+            "category_scores": final_state.get("category_scores", {}).get(idx, {}),
+            "facet_scores": final_state.get("facet_scores", {}).get(idx, [])
+        })
+
+    return {
+        "conversation_id": conversation.get("conversation_id", "unknown"),
+        "topic": conversation.get("topic", ""),
+        "total_turns": len(turn_scores),
+        "overall_score": final_scores.get("overall", 0.0),
+        "category_averages": final_scores.get("category_averages", {}),
+        "turn_scores": turn_scores,
+        "processing_time_sec": elapsed,
+        "model_used": "qwen2.5:7b",
+        "facets_scored": final_scores.get("facets_scored", 0),
+        "scoring_mode": "langgraph"
+    }
 
 if __name__ == "__main__":
     print("LangGraph pipeline compiled successfully")
