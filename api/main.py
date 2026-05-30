@@ -170,3 +170,62 @@ def get_conversation_result(conversation_id: str):
         if data.get("conversation_id") == conversation_id:
             return data
     raise HTTPException(status_code=404, detail=f"{conversation_id} not found")
+
+@app.get("/benchmark/summary")
+def benchmark_summary():
+    """Aggregated statistics across all scored conversations."""
+    scored_dir = "data/conversations/scored"
+    if not os.path.exists(scored_dir):
+        return {"error": "No scored conversations yet"}
+
+    results = []
+    for fname in sorted(os.listdir(scored_dir)):
+        if not fname.endswith(".json"):
+            continue
+        with open(os.path.join(scored_dir, fname)) as f:
+            data = json.load(f)
+        if "error" not in data and "overall_score" in data:
+            results.append(data)
+
+    if not results:
+        return {"count": 0}
+
+    overall_scores = [r["overall_score"] for r in results]
+
+    # Per-category stats
+    category_stats = {}
+    for cat in ["Linguistic Quality", "Pragmatics", "Safety", "Emotion"]:
+        scores = [
+            r["category_averages"][cat]
+            for r in results
+            if cat in r.get("category_averages", {})
+        ]
+        if scores:
+            category_stats[cat] = {
+                "mean": round(sum(scores) / len(scores), 3),
+                "min": round(min(scores), 3),
+                "max": round(max(scores), 3),
+                "std": round(
+                    (sum((s - sum(scores)/len(scores))**2 for s in scores) / len(scores)) ** 0.5, 3
+                )
+            }
+
+    # Scoring mode breakdown
+    from collections import Counter
+    mode_counts = Counter(r.get("scoring_mode", "unknown") for r in results)
+
+    return {
+        "total_conversations": len(results),
+        "overall": {
+            "mean": round(sum(overall_scores) / len(overall_scores), 3),
+            "min": round(min(overall_scores), 3),
+            "max": round(max(overall_scores), 3),
+            "std": round(
+                (sum((s - sum(overall_scores)/len(overall_scores))**2
+                     for s in overall_scores) / len(overall_scores)) ** 0.5, 3
+            )
+        },
+        "by_category": category_stats,
+        "scoring_modes": dict(mode_counts),
+        "facets_evaluated": 399
+    }
