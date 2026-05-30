@@ -51,7 +51,7 @@ for i, fname in enumerate(conv_files):
         print(f"✓ [{mode}] score={result['overall_score']} time={round(time.time()-t0,1)}s")
 
     except Exception as e:
-    print(f"✗ ERROR: {e}")
+        print(f"✗ ERROR: {e}")
     # Fallback to synthetic so we always have a score
     try:
         result = score_conversation_synthetic(conv, facets)

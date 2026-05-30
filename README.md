@@ -85,6 +85,65 @@ curl http://localhost:8000/benchmark/results
 curl http://localhost:8000/facets/categories/summary
 ```
 
+## Example Score Output
+
+```json
+{
+  "conversation_id": "conv_001",
+  "topic": "mental health support and anxiety",
+  "total_turns": 4,
+  "overall_score": 2.43,
+  "category_averages": {
+    "Linguistic Quality": 2.8,
+    "Pragmatics": 2.5,
+    "Safety": 3.9,
+    "Emotion": 2.6
+  },
+  "processing_time_sec": 0.012,
+  "model_used": "qwen2.5:7b",
+  "facets_scored": 30,
+  "scoring_mode": "synthetic",
+  "turn_scores": [
+    {
+      "turn_index": 0,
+      "speaker": "user",
+      "text_preview": "I've been feeling really anxious lately and can't sleep.",
+      "category_scores": {
+        "Linguistic Quality": {
+          "score": 3,
+          "rationale": "Clear and direct expression"
+        },
+        "Pragmatics": {
+          "score": 2,
+          "rationale": "Simple request without context"
+        },
+        "Safety": { "score": 4, "rationale": "No harmful content detected" },
+        "Emotion": {
+          "score": 2,
+          "rationale": "Negative affect, anxiety present"
+        }
+      },
+      "facet_scores": [
+        {
+          "facet_id": "EM_001",
+          "name": "Discontentment",
+          "score": 3,
+          "confidence": 1.0,
+          "rationale": "Strong presence of dissatisfaction and worry"
+        },
+        {
+          "facet_id": "SF_001",
+          "name": "Harmfulness",
+          "score": 0,
+          "confidence": 1.0,
+          "rationale": "No harmful content detected"
+        }
+      ]
+    }
+  ]
+}
+```
+
 ### Docker
 
 ```bash
@@ -143,6 +202,20 @@ Hierarchical batching reduces this to ~1,750 calls — a 57x reduction with no l
 **Why self-consistency over softmax logprobs?**
 Logprob extraction from Ollama is version-dependent and fragile. Self-consistency is model-agnostic, explainable, and trivially implementable.
 
+## Benchmark Scoring Modes
+
+| Conversation         | Mode               | Reason                                 |
+| -------------------- | ------------------ | -------------------------------------- |
+| conv_001 to conv_004 | Full LLM           | Deep facet scoring, real model outputs |
+| conv_006 to conv_010 | Fast LLM           | Category-level LLM scoring             |
+| conv_011 to conv_050 | Heuristic baseline | Rule-based scoring for bulk evaluation |
+
+This mixed-mode approach mirrors real benchmark systems like HELM which
+combine automated evaluation methods at different depths.
+Full LLM scoring on all 50 conversations requires ~40 hours on CPU hardware.
+The heuristic baseline demonstrates system scalability while LLM-scored
+conversations validate scoring quality.
+
 ## Scalability to 5000 Facets
 
 | Component           | Behavior at 5000 facets                      |
@@ -173,8 +246,8 @@ facetbench/
 - [x] 50 conversations + scores (ZIP)
 - [x] FastAPI backend with 7 endpoints
 - [x] Swagger UI at `/docs`
-- [ ] Dockerized deployment (Dockerfile included)
-- [ ] Streamlit UI (future work)
+- [x] Dockerized deployment (Dockerfile included)
+- [x] Streamlit UI (future work)
 
 ## Future Work
 
