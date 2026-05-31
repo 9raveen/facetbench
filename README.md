@@ -24,6 +24,7 @@ flowchart TD
     subgraph OUTPUT
         G --> H[Score Aggregation]
         H --> I[FastAPI /score endpoint]
+        I --> L[Streamlit UI\nfacetbench-ahoum.streamlit.app]
     end
 
     J[(ChromaDB\n399 facets\nall-MiniLM-L6-v2)] --> D
@@ -244,15 +245,18 @@ facetbench/
 - [x] GitHub repository with clean structure
 - [x] 399 facet definitions (JSON)
 - [x] 50 conversations + scores (ZIP)
-- [x] FastAPI backend with 7 endpoints
+- [x] FastAPI backend with 8 endpoints
 - [x] Swagger UI at `/docs`
-- [x] Dockerized deployment (Dockerfile included)
-- [x] Streamlit UI (future work)
+- [x] Dockerized deployment (Dockerfile.api + Dockerfile.ui + docker-compose.yml)
+- [x] Streamlit UI (3 tabs — Score, Dashboard, Facet Explorer)
+- [x] LangGraph 8-node orchestration pipeline
+- [x] 26 passing tests
+- [x] Deployed API (Render)
+- [x] Deployed UI (Streamlit Cloud)
 
 ## Future Work
 
-- LangGraph full orchestration (state machine designed in `src/pipeline/`)
-- Streamlit UI for interactive scoring
 - Calibrated confidence via Platt scaling on held-out conversations
 - Cross-facet dependency modeling via Neo4j
-- GPU deployment for production-speed scoring
+- GPU deployment for production-speed scoring (CPU-only baseline complete)
+- Full LLM scoring on all 50 conversations (~40 hrs on CPU, done on subset)
