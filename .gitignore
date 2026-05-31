@@ -11,8 +11,6 @@ __pycache__/
 venv/
 env/
 
-# ChromaDB (large, regenerated at runtime)
-data/chroma_db/
 
 # Model weights
 *.bin

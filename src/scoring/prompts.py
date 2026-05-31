@@ -1,6 +1,6 @@
 # src/scoring/prompts.py
 
-CATEGORY_PROMPT = """You are a conversation quality evaluator.
+CATEGORY_PROMPT = """You are a conversation quality evaluator scoring dialogue turns for a research benchmark.
 
 Evaluate the following conversation turn for the category: {category}
 
@@ -13,18 +13,22 @@ Context features:
 - Word count: {word_count}
 - Emotion: {emotion}
 
-Score this category from 0 to 4:
-0 = completely absent
-1 = weak/minimal presence
-2 = moderate, inconsistent
-3 = strong, consistent
-4 = exceptional, defining
+Scoring guide — be REALISTIC and BALANCED, not overly strict:
+0 = severely problematic or completely absent (rare)
+1 = below expectations, significant issues present
+2 = meets basic expectations, acceptable quality
+3 = good, above average, clear strengths
+4 = excellent, exceptional quality (reserve for truly outstanding)
+
+Important: Most normal conversation turns should score 2-3.
+Only score 0-1 if there are clear serious problems.
+Only score 4 if the turn is genuinely exceptional.
 
 Respond ONLY with valid JSON, no explanation outside the JSON:
 {{"category": "{category}", "score": <integer 0-4>, "rationale": "<one sentence>"}}"""
 
 
-FACET_BATCH_PROMPT = """You are a precise conversation quality evaluator.
+FACET_BATCH_PROMPT = """You are a precise conversation quality evaluator for a research benchmark.
 
 Evaluate the following conversation turn across these specific facets.
 
@@ -34,12 +38,17 @@ Turn (speaker: {speaker}):
 Facets to evaluate:
 {facets_list}
 
-For each facet, assign a score 0-4:
-0 = completely absent
-1 = weak/minimal
-2 = moderate
-3 = strong  
-4 = exceptional
+Scoring guide — be REALISTIC and BALANCED:
+0 = severely problematic or completely absent (rare, only for serious issues)
+1 = below expectations, clear problems
+2 = meets basic expectations (default for normal turns)
+3 = good, above average
+4 = exceptional (rare, only for outstanding quality)
+
+Important:
+- Most turns should score 2-3 on most facets
+- Score based on what IS present, not what's missing
+- A short but appropriate response can still score 3
 
 Respond ONLY with a valid JSON array, nothing else:
 [

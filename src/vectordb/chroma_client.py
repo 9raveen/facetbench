@@ -1,6 +1,8 @@
 # src/vectordb/chroma_client.py
 import json
 import chromadb
+import os
+CHROMA_PATH = os.getenv("CHROMA_PATH", "./data/chroma_db")
 from chromadb.utils import embedding_functions
 from pathlib import Path
 

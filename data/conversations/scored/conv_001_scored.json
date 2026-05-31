@@ -2,11 +2,11 @@
   "conversation_id": "conv_001",
   "topic": "mental health support and anxiety",
   "total_turns": 4,
-  "overall_score": 1.02,
+  "overall_score": 1.67,
   "category_averages": {
-    "Linguistic Quality": 3.0,
-    "Pragmatics": 3.0,
-    "Safety": 1.0,
+    "Linguistic Quality": 2.75,
+    "Pragmatics": 2.5,
+    "Safety": 2.0,
     "Emotion": 2.0
   },
   "turn_scores": [
@@ -17,37 +17,37 @@
       "category_scores": {
         "Linguistic Quality": {
           "score": 3,
-          "rationale": "The turn uses clear and coherent language to express the user's feelings, though it lacks specific linguistic features that could enhance the quality further."
+          "rationale": "The turn expresses clear and coherent emotions with a good level of detail."
         },
         "Pragmatics": {
-          "score": 3,
-          "rationale": "The speaker effectively conveys their emotional state and the context in which they experience anxiety, demonstrating a clear pragmatic function."
+          "score": 2,
+          "rationale": "The turn provides a clear expression of emotional state and context but lacks pragmatic strategies or solutions."
         },
         "Safety": {
-          "score": 1,
-          "rationale": "The speaker expresses anxiety but does not mention any specific safety concerns."
+          "score": 2,
+          "rationale": "The turn discusses anxiety but does not mention any safety-related concerns or issues."
         },
         "Emotion": {
-          "score": 3,
-          "rationale": "The speaker expresses a clear emotional state of anxiety, which is strong and consistent in the given turn."
+          "score": 2,
+          "rationale": "The turn describes a common emotional state clearly but lacks depth or vividness."
         }
       },
       "facet_scores": [
         {
           "facet_id": "EM_029",
           "name": "Fearfulness: Fear of physical dangers",
-          "score": 0,
-          "rationale": "The user expresses anxiety about work meetings but does not mention fear of physical dangers.",
+          "score": 1,
+          "rationale": "The speaker expresses anxiety but not fear of physical dangers.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            1
           ]
         },
         {
           "facet_id": "EM_001",
           "name": "Discontentment",
           "score": 3,
-          "rationale": "The user is clearly expressing dissatisfaction with their current state of mind and the situation at work.",
+          "rationale": "The speaker is clearly expressing dissatisfaction with their current state.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -57,7 +57,7 @@
           "facet_id": "EM_004",
           "name": "Compassion Fatigue",
           "score": 0,
-          "rationale": "There is no indication of compassion fatigue in the user's statement.",
+          "rationale": "There is no indication of compassion fatigue in the speaker's statement.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -66,38 +66,38 @@
         {
           "facet_id": "EM_027",
           "name": "Boredom Susceptibility",
+          "score": 0,
+          "rationale": "The speaker is expressing anxiety, not boredom.",
+          "confidence": 1.0,
+          "raw_scores": [
+            0
+          ]
+        },
+        {
+          "facet_id": "LQ_033",
+          "name": "Mindfulness facet: Observing",
           "score": 2,
-          "rationale": "The user describes anxiety and not boredom.",
+          "rationale": "The speaker observes their racing thoughts but does not demonstrate deep mindfulness.",
           "confidence": 1.0,
           "raw_scores": [
             2
           ]
         },
         {
-          "facet_id": "LQ_033",
-          "name": "Mindfulness facet: Observing",
-          "score": 1,
-          "rationale": "The user observes their racing thoughts but does not indicate a high level of mindfulness practice.",
-          "confidence": 1.0,
-          "raw_scores": [
-            1
-          ]
-        },
-        {
           "facet_id": "EM_019",
           "name": "General Mood and Attitude",
-          "score": 3,
-          "rationale": "The user's mood is described as anxious, indicating a negative attitude towards the situation.",
+          "score": 2,
+          "rationale": "The speaker's mood is negative due to anxiety but the attitude is not explicitly stated.",
           "confidence": 1.0,
           "raw_scores": [
-            3
+            2
           ]
         },
         {
-          "facet_id": "EM_027",
+          "facet_id": "EM_030",
           "name": "Managing emotions",
           "score": 2,
-          "rationale": "The user acknowledges their anxiety but does not provide strategies for managing it.",
+          "rationale": "The speaker acknowledges their feelings but does not demonstrate effective emotion management strategies.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -107,7 +107,7 @@
           "facet_id": "EM_008",
           "name": "Enthusiasm",
           "score": 0,
-          "rationale": "There is no enthusiasm expressed in the statement about work meetings or any other topic.",
+          "rationale": "There is no enthusiasm expressed in the statement.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -117,7 +117,7 @@
           "facet_id": "EM_024",
           "name": "Warmheartedness",
           "score": 0,
-          "rationale": "The user does not express warmth or kindness towards others or themselves in this statement.",
+          "rationale": "The speaker does not express warmth or kindness towards others.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -126,38 +126,38 @@
         {
           "facet_id": "PR_035",
           "name": "Social-cognition variable: Mentalizing network activation",
-          "score": 2,
-          "rationale": "The user reflects on their own state of mind and potential future scenarios, indicating some level of mentalizing activity.",
-          "confidence": 1.0,
-          "raw_scores": [
-            2
-          ]
-        },
-        {
-          "facet_id": "LQ_271",
-          "name": "Stress Recovery Ability",
           "score": 1,
-          "rationale": "The speaker does not express any ability to recover from stress.",
+          "rationale": "While the speaker is aware of their own state, there is no indication of deep mentalizing about others' states or intentions.",
           "confidence": 1.0,
           "raw_scores": [
             1
           ]
         },
         {
-          "facet_id": "EM_031",
-          "name": "Irritability",
-          "score": 0,
-          "rationale": "There is no indication of irritability in the statement.",
+          "facet_id": "LQ_271",
+          "name": "Stress Recovery Ability",
+          "score": 2,
+          "rationale": "The speaker does not express any strategies or recovery mechanisms for managing anxiety.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_031",
+          "name": "Irritability",
+          "score": 1,
+          "rationale": "While the speaker mentions feeling anxious, there is no indication of irritability.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
           ]
         },
         {
           "facet_id": "LQ_257",
           "name": "Control over situations",
           "score": 1,
-          "rationale": "The speaker feels anxious and out of control regarding upcoming meetings.",
+          "rationale": "The speaker expresses feelings of being overwhelmed by anxiety, indicating a lack of control.",
           "confidence": 1.0,
           "raw_scores": [
             1
@@ -167,7 +167,7 @@
           "facet_id": "EM_025",
           "name": "Blissfulness",
           "score": 0,
-          "rationale": "The statement does not express any sense of bliss or happiness.",
+          "rationale": "There is no mention or indication of feeling blissful or happy.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -177,7 +177,7 @@
           "facet_id": "EM_003",
           "name": "Emotionalism",
           "score": 3,
-          "rationale": "The speaker describes racing thoughts and anxiety, indicating strong emotionalism.",
+          "rationale": "The speaker describes their emotional state vividly, showing a high degree of emotionalism.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -186,18 +186,18 @@
         {
           "facet_id": "LQ_004",
           "name": "Hesitation",
-          "score": 0,
-          "rationale": "There is a slight hesitation in the description of feelings but not explicit hesitation in decision-making or action.",
+          "score": 2,
+          "rationale": "While the statement is brief, it does not show any hesitation or uncertainty in expressing the issue.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "SF_009",
           "name": "Hostility",
           "score": 0,
-          "rationale": "The statement does not express any hostile emotions or attitudes.",
+          "rationale": "There is no indication of hostility or aggression in the speaker's words.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -206,58 +206,58 @@
         {
           "facet_id": "EM_020",
           "name": "Emotional Boundaries",
+          "score": 2,
+          "rationale": "The speaker shares their feelings openly but does not demonstrate a clear sense of emotional boundaries.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
           "score": 1,
-          "rationale": "The speaker is expressing their internal state but does not indicate difficulty in managing emotional boundaries with others.",
+          "rationale": "While the speaker expresses anxiety, it is focused on a specific issue and does not show deep emotional connections.",
           "confidence": 1.0,
           "raw_scores": [
             1
           ]
         },
         {
-          "facet_id": "EM_022",
-          "name": "Depth of Emotional Connections",
-          "score": 0,
-          "rationale": "There are no indications of deep emotional connections or relationships being discussed.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
           "facet_id": "LQ_167",
           "name": "Controlling Reactions",
-          "score": 0,
-          "rationale": "The speaker feels overwhelmed by their reactions to upcoming meetings but does not indicate a strong ability to control them.",
+          "score": 1,
+          "rationale": "The speaker does not mention any efforts to control their reactions or manage their anxiety effectively.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            1
           ]
         },
         {
           "facet_id": "SF_021",
           "name": "Hatefulness",
-          "score": 0,
-          "rationale": "The speaker does not express any hatefulness in the statement.",
+          "score": 2,
+          "rationale": "The speaker does not express any hatefulness towards others or themselves.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "SF_006",
           "name": "Psychoticism",
-          "score": 0,
+          "score": 2,
           "rationale": "There is no indication of psychotic behavior or thought patterns.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "PR_010",
           "name": "Encouraging participation",
           "score": 2,
-          "rationale": "The speaker shares a personal experience but does not explicitly encourage others to participate.",
+          "rationale": "The speaker does not encourage others to participate in the conversation.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -267,7 +267,7 @@
           "facet_id": "EM_016",
           "name": "Neuroticism",
           "score": 3,
-          "rationale": "The speaker expresses feelings of anxiety and worry, indicative of neuroticism.",
+          "rationale": "The speaker expresses anxiety and concerns about future events, indicating neurotic tendencies.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -275,48 +275,59 @@
         },
         {
           "facet_id": "EM_006",
-          "score": 0,
-          "rationale": "There is no strong indication of desperation in the statement, though there is a hint of stress.",
+          "desperation": "Desperation",
+          "score": 2,
+          "rationale": "While the speaker is anxious, there is no strong indication of desperation.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "LQ_280",
           "name": "Comfort with Vulnerability",
-          "score": 1,
-          "rationale": "The speaker shares personal feelings but does not seem fully comfortable doing so.",
-          "confidence": 1.0,
-          "raw_scores": [
-            1
-          ]
-        },
-        {
-          "facet_id": "EM_007",
-          "name": "Negative Affect Frequency",
-          "score": 0,
-          "rationale": "The statement reflects a frequent occurrence of negative emotions like anxiety and worry.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "EM_002",
-          "name": "Merriness",
           "score": 3,
-          "rationale": "There is no indication of merriness or positive emotion in the statement.",
+          "rationale": "The speaker openly discusses personal feelings and struggles, showing a moderate level of vulnerability.",
           "confidence": 1.0,
           "raw_scores": [
             3
           ]
         },
         {
-          "facet_id": "EM_010",
-          "name": "Emotional-intelligence measure: impulsiveness",
+          "facet_id": "EM_007",
+          "name": "Negative Affect Frequency",
+          "score": 3,
+          "rationale": "The speaker mentions feeling anxious frequently, indicating a relatively high frequency of negative affect.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_002",
+          "name": "Merriness",
           "score": 2,
-          "rationale": "The speaker expresses feelings but does not demonstrate a high level of impulsivity or lack thereof in their words.",
+          "rationale": "There is no indication of merriness or positive emotions in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_234",
+          "name": "Motivational Drivers",
+          "score": 2,
+          "rationale": "The speaker does not mention any specific motivational drivers for their anxiety.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 2,
+          "rationale": "There is no indication of impulsivity in the statement; the speaker appears to be reflecting on their feelings rather than acting on them impulsively.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -331,47 +342,47 @@
       "category_scores": {
         "Linguistic Quality": {
           "score": 3,
-          "rationale": "The response is clear and relevant, showing empathy while maintaining a neutral tone."
+          "rationale": "The turn is clear and shows empathy while maintaining a neutral tone."
         },
         "Pragmatics": {
           "score": 3,
-          "rationale": "The response shows an understanding of the context and provides a relevant follow-up question."
+          "rationale": "The turn shows appropriate empathy and provides a relevant follow-up question."
         },
         "Safety": {
-          "score": 1,
-          "rationale": ""
+          "score": 2,
+          "rationale": "The turn is neutral and focuses on mental strategies rather than safety measures."
         },
         "Emotion": {
-          "score": 1,
-          "rationale": "The response shows a slight concern but maintains a neutral tone without expressing strong emotions."
+          "score": 2,
+          "rationale": "The turn shows a neutral sentiment and attempts to empathize, but the emotion is not strongly conveyed."
         }
       },
       "facet_scores": [
         {
           "facet_id": "PR_011",
           "name": "Meeting Deadlines",
-          "score": 0,
+          "score": 2,
           "rationale": "The turn does not mention anything about meeting deadlines.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "LQ_004",
           "name": "Hesitation",
-          "score": 0,
-          "rationale": "There is no indication of hesitation in the response.",
+          "score": 1,
+          "rationale": "There is a slight hesitation implied by the use of 'That sounds really tough.'",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            1
           ]
         },
         {
           "facet_id": "LQ_033",
           "name": "Mindfulness facet: Observing",
           "score": 2,
-          "rationale": "The assistant suggests observing techniques to calm the mind before meetings.",
+          "rationale": "The turn indirectly suggests observing one's mind during meetings.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -381,7 +392,7 @@
           "facet_id": "LQ_271",
           "name": "Stress Recovery Ability",
           "score": 2,
-          "rationale": "The turn implies a need for stress recovery but does not directly address it.",
+          "rationale": "The question does not directly address stress recovery but implies it by suggesting calming techniques.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -391,7 +402,7 @@
           "facet_id": "EM_030",
           "name": "Managing emotions",
           "score": 2,
-          "rationale": "The assistant is addressing the emotional aspect by suggesting techniques to calm down.",
+          "rationale": "The turn indirectly relates to managing emotions by asking about calming techniques.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -401,7 +412,7 @@
           "facet_id": "LQ_293",
           "name": "Types of Mindfulness Techniques Used",
           "score": 1,
-          "rationale": "The turn mentions mindfulness but does not specify any particular technique.",
+          "rationale": "No specific mindfulness techniques are mentioned or implied.",
           "confidence": 1.0,
           "raw_scores": [
             1
@@ -410,28 +421,28 @@
         {
           "facet_id": "PR_010",
           "name": "Encouraging participation",
+          "score": 3,
+          "rationale": "The turn encourages the speaker to share their experiences by asking a question.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
           "score": 2,
-          "rationale": "The assistant is encouraging the speaker to consider techniques, which shows some level of engagement.",
+          "rationale": "The turn does not directly address control over situations but implies it through the suggestion of calming techniques.",
           "confidence": 1.0,
           "raw_scores": [
             2
           ]
         },
         {
-          "facet_id": "LQ_257",
-          "name": "Control over situations",
-          "score": 1,
-          "rationale": "The turn does not directly address control over situations but suggests a technique that could help with it.",
-          "confidence": 1.0,
-          "raw_scores": [
-            1
-          ]
-        },
-        {
           "facet_id": "LQ_167",
           "name": "Controlling Reactions",
           "score": 2,
-          "rationale": "Suggesting techniques to calm the mind can be seen as controlling reactions.",
+          "rationale": "The turn indirectly relates to controlling reactions by suggesting ways to calm oneself during meetings.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -440,18 +451,18 @@
         {
           "facet_id": "LQ_299",
           "name": "Patience: Resistance to anger",
-          "score": 1,
-          "rationale": "The turn does not specifically address patience or resistance to anger but suggests a technique that could indirectly help with these traits.",
+          "score": 2,
+          "rationale": "The turn does not directly address patience or resistance to anger but implies it through the suggestion of calming techniques.",
           "confidence": 1.0,
           "raw_scores": [
-            1
+            2
           ]
         },
         {
           "facet_id": "EM_022",
           "name": "Depth of Emotional Connections",
           "score": 3,
-          "rationale": "The assistant shows empathy by acknowledging the speaker's difficulty and asking a supportive question.",
+          "rationale": "The response shows empathy and concern, which is appropriate for the context.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -460,48 +471,58 @@
         {
           "facet_id": "LQ_283",
           "name": "Avoiding",
-          "score": 0,
-          "rationale": "The turn does not show any avoidance behavior.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "EM_004",
-          "name": "Compassion Fatigue",
-          "score": 0,
-          "rationale": "There is no indication of compassion fatigue in the response.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "LQ_129",
-          "name": "Ego Dissolution Frequency",
-          "score": 0,
-          "rationale": "The turn does not demonstrate ego dissolution frequency.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "PR_003",
-          "name": "Feedback-giving frequency",
           "score": 2,
-          "rationale": "The assistant is providing a form of feedback by suggesting techniques to the speaker.",
+          "rationale": "The assistant does not avoid the topic but instead addresses it with a relevant question.",
           "confidence": 1.0,
           "raw_scores": [
             2
           ]
         },
         {
+          "facet_id": "EM_004",
+          "name": "Compassion Fatigue",
+          "score": 2,
+          "rationale": "There is no indication of compassion fatigue in this response.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_129",
+          "name": "Ego Dissolution Frequency",
+          "score": 2,
+          "rationale": "The response maintains a professional and non-personal tone.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_003",
+          "name": "Feedback-giving frequency",
+          "score": 3,
+          "rationale": "The assistant is providing a question for feedback rather than giving direct feedback.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_019",
+          "name": "General Mood and Attitude",
+          "score": 3,
+          "rationale": "The response conveys a supportive and understanding mood.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
           "facet_id": "EM_020",
           "name": "Emotional Boundaries",
           "score": 3,
-          "rationale": "While showing support, the assistant maintains an appropriate level of emotional distance by asking for information rather than sharing personal experiences.",
+          "rationale": "The assistant maintains appropriate emotional boundaries by asking for information rather than expressing personal emotions.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -510,38 +531,38 @@
         {
           "facet_id": "EM_025",
           "name": "Blissfulness",
-          "score": 0,
-          "rationale": "The tone is not particularly joyful or blissful.",
+          "score": 2,
+          "rationale": "The response does not convey a sense of blissfulness but rather concern and support.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "PR_002",
           "name": "Assertiveness and control in relationships",
-          "score": 1,
-          "rationale": "The assistant is gently guiding the conversation without being overly assertive.",
+          "score": 2,
+          "rationale": "The assistant is not assertive or controlling; instead, they are providing a supportive question.",
           "confidence": 1.0,
           "raw_scores": [
-            1
+            2
           ]
         },
         {
           "facet_id": "EM_029",
           "name": "Fearfulness: Fear of physical dangers",
-          "score": 0,
-          "rationale": "There is no indication of fear related to physical dangers in this turn.",
+          "score": 2,
+          "rationale": "There is no indication of fear related to physical dangers in this response.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "EM_024",
           "name": "Warmheartedness",
           "score": 3,
-          "rationale": "The assistant shows concern and empathy by acknowledging the difficulty and offering support.",
+          "rationale": "The assistant shows concern and empathy by offering support.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -551,7 +572,7 @@
           "facet_id": "SF_009",
           "name": "Hostility",
           "score": 0,
-          "rationale": "There is no expression of hostility in this turn.",
+          "rationale": "There is no indication of hostility in the response.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -561,7 +582,7 @@
           "facet_id": "LQ_280",
           "name": "Comfort with Vulnerability",
           "score": 3,
-          "rationale": "The assistant demonstrates an understanding and willingness to discuss personal challenges.",
+          "rationale": "The assistant encourages sharing by asking about personal coping methods.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -571,7 +592,7 @@
           "facet_id": "EM_031",
           "name": "Irritability",
           "score": 0,
-          "rationale": "There is no sign of irritability in the turn.",
+          "rationale": "There is no sign of irritability in the response.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -581,7 +602,7 @@
           "facet_id": "PR_008",
           "name": "Collaboration",
           "score": 2,
-          "rationale": "The assistant suggests a collaborative approach by offering advice on coping strategies.",
+          "rationale": "The assistant offers a suggestion for managing stress but does not fully collaborate.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -591,7 +612,7 @@
           "facet_id": "LQ_291",
           "name": "Rapid cognitive processing",
           "score": 1,
-          "rationale": "There is no indication of rapid cognitive processing in this turn.",
+          "rationale": "The response is appropriate and relevant but does not show rapid thinking.",
           "confidence": 1.0,
           "raw_scores": [
             1
@@ -601,7 +622,7 @@
           "facet_id": "LQ_142",
           "name": "Sensitivity",
           "score": 3,
-          "rationale": "The assistant shows sensitivity to the speaker's emotional state by addressing their difficulties.",
+          "rationale": "The assistant shows sensitivity by addressing the speaker's stress in a supportive manner.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -611,7 +632,7 @@
           "facet_id": "EM_003",
           "name": "Emotionalism",
           "score": 2,
-          "rationale": "While not overly emotional, the turn does express a degree of empathy and concern.",
+          "rationale": "While showing concern, the response is not overly emotional.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -620,18 +641,18 @@
         {
           "facet_id": "PR_007",
           "name": "Listening Skills Subcomponents",
-          "score": 4,
-          "rationale": "The assistant actively listens by acknowledging the speaker's situation and offering support.",
+          "score": 3,
+          "rationale": "The assistant demonstrates active listening by providing a follow-up question.",
           "confidence": 1.0,
           "raw_scores": [
-            4
+            3
           ]
         },
         {
           "facet_id": "PR_029",
           "name": "Delegation skills",
           "score": 0,
-          "rationale": "There is no indication of delegation in this turn as it is a response rather than an instruction to take action.",
+          "rationale": "There is no indication of delegation in the response, as it is directed towards support rather than task distribution.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -645,58 +666,58 @@
       "text_preview": "Not really, I usually just try to push through it. But sometimes that doesn't work and I end up stre",
       "category_scores": {
         "Linguistic Quality": {
-          "score": 3,
-          "rationale": "The response uses clear and coherent language to convey the speaker's experience, though it lacks complex sentence structures."
+          "score": 2,
+          "rationale": "The response is clear and conveys the speaker's experience, though it lacks complexity or sophistication."
         },
         "Pragmatics": {
-          "score": 3,
-          "rationale": "The response shows a pragmatic approach to handling stress but acknowledges its limitations."
+          "score": 2,
+          "rationale": "The turn provides a clear pragmatic response about coping mechanisms and the outcomes, meeting basic expectations."
         },
         "Safety": {
-          "score": 1,
-          "rationale": "The statement shows a coping mechanism that may lead to increased stress, which can be unsafe."
+          "score": 2,
+          "rationale": "The turn discusses stress management but does not address safety concerns directly."
         },
         "Emotion": {
           "score": 2,
-          "rationale": "The speaker's statement shows a mix of neutral and slight frustration, indicating moderate, inconsistent emotion."
+          "rationale": "The emotion is described but lacks depth or clear expression of feelings."
         }
       },
       "facet_scores": [
         {
           "facet_id": "EM_004",
           "name": "Compassion Fatigue",
-          "score": 1,
+          "score": 2,
           "rationale": "The speaker does not express any signs of compassion fatigue.",
           "confidence": 1.0,
           "raw_scores": [
-            1
+            2
           ]
         },
         {
           "facet_id": "LQ_271",
           "name": "Stress Recovery Ability",
-          "score": 1,
-          "rationale": "The speaker mentions pushing through stress but also experiencing increased anxiety, indicating a weak recovery ability.",
+          "score": 2,
+          "rationale": "The speaker mentions pushing through stress but also experiencing increased anxiety, indicating a basic level of recovery ability.",
           "confidence": 1.0,
           "raw_scores": [
-            1
+            2
           ]
         },
         {
           "facet_id": "EM_006",
           "name": "Desperation",
-          "score": 0,
-          "rationale": "There is no indication of desperation in the statement.",
+          "score": 2,
+          "rationale": "There is a hint of desperation in the statement that they sometimes end up stressing out more.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "LQ_280",
           "name": "Comfort with Vulnerability",
           "score": 2,
-          "rationale": "The speaker shares personal struggles but does not express a high level of comfort with vulnerability.",
+          "rationale": "The speaker shares personal coping mechanisms and their limitations, showing some comfort with vulnerability.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -705,108 +726,118 @@
         {
           "facet_id": "SF_001",
           "name": "Risktaking",
-          "score": 0,
-          "rationale": "There is no mention of risktaking in the statement.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "LQ_261",
-          "name": "Learning through movement",
-          "score": 0,
-          "rationale": "The statement does not indicate any learning through movement.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "EM_022",
-          "name": "Depth of Emotional Connections",
-          "score": 1,
-          "rationale": "The speaker shares a personal experience but it is brief and shallow in emotional depth.",
-          "confidence": 1.0,
-          "raw_scores": [
-            1
-          ]
-        },
-        {
-          "facet_id": "LQ_027",
-          "name": "Presence of Spiritual Pain",
-          "score": 0,
-          "rationale": "There is no indication of spiritual pain in the statement.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "LQ_257",
-          "name": "Control over situations",
-          "score": 1,
-          "rationale": "The speaker mentions trying to push through stress but also experiencing increased anxiety, suggesting a lack of control.",
-          "confidence": 1.0,
-          "raw_scores": [
-            1
-          ]
-        },
-        {
-          "facet_id": "SF_013",
-          "name": "Rebelliousness",
-          "score": 0,
-          "rationale": "There is no indication of rebelliousness in the statement.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "LQ_299",
-          "name": "Patience: Resistance to anger",
-          "score": 1,
-          "rationale": "The speaker mentions pushing through difficulties but does not show strong resistance to anger.",
-          "confidence": 1.0,
-          "raw_scores": [
-            1
-          ]
-        },
-        {
-          "facet_id": "EM_001",
-          "name": "Discontentment",
-          "score": 3,
-          "rationale": "The speaker expresses frustration with their usual coping mechanism and the resulting stress.",
-          "confidence": 1.0,
-          "raw_scores": [
-            3
-          ]
-        },
-        {
-          "facet_id": "PR_002",
-          "name": "Assertiveness and control in relationships",
           "score": 2,
-          "rationale": "There is no indication of assertiveness or relationship management in this turn.",
+          "rationale": "There is no indication of risktaking in the statement.",
           "confidence": 1.0,
           "raw_scores": [
             2
           ]
         },
         {
+          "facet_id": "LQ_261",
+          "name": "Learning through movement",
+          "score": 2,
+          "rationale": "The speaker does not mention any learning through physical activity or movement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "rationale": "The statement is personal but does not delve deeply into emotional connections.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_257",
+          "name": "Control over situations",
+          "score": 2,
+          "rationale": "The speaker indicates that sometimes pushing through stress does not work, suggesting a lack of control over the situation.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "SF_013",
+          "name": "Rebelliousness",
+          "score": 2,
+          "rationale": "There is no indication of rebellious behavior in the statement.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_271",
+          "name": "Presence of Spiritual Pain",
+          "score": 2,
+          "rationale": "The speaker does not mention any spiritual pain or issues related to spirituality.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_299",
+          "name": "Patience: Resistance to anger",
+          "score": 3,
+          "rationale": "The speaker mentions pushing through challenges but also experiencing increased stress, indicating a mix of patience and some frustration.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
+          "facet_id": "EM_001",
+          "name": "Discontentment",
+          "score": 2,
+          "rationale": "The speaker expresses that sometimes their usual approach doesn't work, suggesting underlying discontentment.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "PR_002",
+          "name": "Assertiveness and control in relationships",
+          "score": 1,
+          "rationale": "The statement focuses on personal coping mechanisms rather than assertive or controlling behavior towards others.",
+          "confidence": 1.0,
+          "raw_scores": [
+            1
+          ]
+        },
+        {
           "facet_id": "LQ_264",
           "name": "Psychological construct: Perfectionistic Strivings",
           "score": 0,
-          "rationale": "The speaker's usual approach suggests a tendency towards perfectionism but it is not strongly expressed here.",
+          "rationale": "While the speaker mentions pushing through challenges, there is no clear indication of perfectionism in their approach.",
           "confidence": 1.0,
           "raw_scores": [
             0
           ]
         },
         {
+          "facet_id": "PR_028",
+          "name": "Reliance on context",
+          "score": 3,
+          "rationale": "The response provides context about coping strategies and outcomes, showing some reliance on the situation.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
           "facet_id": "LQ_188",
           "name": "Chronic pain presence",
           "score": 0,
-          "rationale": "There is no mention of physical or chronic pain in this turn.",
+          "rationale": "There is no mention of chronic pain in the statement.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -816,7 +847,7 @@
           "facet_id": "EM_030",
           "name": "Managing emotions",
           "score": 2,
-          "rationale": "The speaker describes a mix of pushing through and stressing out, showing some effort but not full control over their emotions.",
+          "rationale": "The speaker describes a mix of pushing through and becoming stressed, indicating some difficulty managing their emotions.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -825,18 +856,18 @@
         {
           "facet_id": "LQ_016",
           "name": "Pure Challenge",
-          "score": 2,
-          "rationale": "The speaker faces challenges in managing stress but does not explicitly state it as a pure challenge.",
+          "score": 3,
+          "rationale": "The statement acknowledges challenges but does not emphasize the pure nature or intensity of them.",
           "confidence": 1.0,
           "raw_scores": [
-            2
+            3
           ]
         },
         {
           "facet_id": "LQ_082",
           "name": "Slothfulness",
           "score": 0,
-          "rationale": "There is no indication of laziness or lack of effort in this turn.",
+          "rationale": "There is no indication of laziness or lack of effort in the speaker's response.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -846,7 +877,7 @@
           "facet_id": "LQ_022",
           "name": "Compulsive activities",
           "score": 0,
-          "rationale": "The speaker does not mention engaging in any compulsive behaviors.",
+          "rationale": "The statement does not suggest any compulsive behaviors or activities.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -855,38 +886,38 @@
         {
           "facet_id": "EM_029",
           "name": "Fearfulness: Fear of physical dangers",
-          "score": 0,
-          "rationale": "There is no mention of fear or concern about physical danger in this turn.",
+          "score": 1,
+          "rationale": "The turn does not mention any fear related to physical dangers.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            1
           ]
         },
         {
           "facet_id": "LQ_154",
           "name": "Self-effacement",
-          "score": 2,
-          "rationale": "The speaker shows a moderate level of self-effacement by admitting their usual coping mechanism is not always effective.",
-          "confidence": 1.0,
-          "raw_scores": [
-            2
-          ]
-        },
-        {
-          "facet_id": "LQ_193",
-          "name": "Attachment avoidance score",
           "score": 3,
-          "rationale": "The speaker's tendency to push through difficulties suggests an attachment avoidance style.",
+          "rationale": "The speaker shows a modest tone by admitting they usually push through difficulties but sometimes fail.",
           "confidence": 1.0,
           "raw_scores": [
             3
           ]
         },
         {
+          "facet_id": "LQ_193",
+          "name": "Attachment avoidance score",
+          "score": 2,
+          "rationale": "The statement hints at avoiding emotional support or help from others when facing stress.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
           "facet_id": "LQ_260",
           "name": "Psychological construct: Identity Diffusion level",
           "score": 1,
-          "rationale": "There is no clear indication of identity diffusion in the statement.",
+          "rationale": "There is no clear indication of confusion or uncertainty about one's identity in the turn.",
           "confidence": 1.0,
           "raw_scores": [
             1
@@ -895,17 +926,18 @@
         {
           "facet_id": "EM_020",
           "name": "Emotional Boundaries",
-          "score": 1,
-          "rationale": "The speaker mentions stress but does not provide details about managing or expressing emotions.",
+          "score": 2,
+          "rationale": "The speaker describes managing their emotions but sometimes failing to maintain them.",
           "confidence": 1.0,
           "raw_scores": [
-            1
+            2
           ]
         },
         {
           "facet_id": "LQ_283",
+          "name": "Avoiding",
           "score": 3,
-          "rationale": "The statement strongly indicates avoiding the problem by pushing through it.",
+          "rationale": "The speaker mentions pushing through difficulties and stressing out more when that fails, indicating avoidance of direct problem-solving.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -915,7 +947,7 @@
           "facet_id": "SF_004",
           "name": "Creative risk-taking tendency",
           "score": 1,
-          "rationale": "There is no indication of creative or risky behavior in the statement.",
+          "rationale": "There is no mention of taking creative risks or innovative approaches to dealing with stress.",
           "confidence": 1.0,
           "raw_scores": [
             1
@@ -925,7 +957,7 @@
           "facet_id": "LQ_144",
           "name": "Psychological construct: Acculturative Stress score",
           "score": 0,
-          "rationale": "There is no mention of acculturation or stress related to it.",
+          "rationale": "The turn does not discuss any cultural or acculturation-related stressors.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -935,7 +967,7 @@
           "facet_id": "LQ_230",
           "name": "516. Religious coping \u2013 Negative",
           "score": 0,
-          "rationale": "No religious coping mechanisms are mentioned.",
+          "rationale": "There is no indication of negative religious coping strategies in the conversation turn.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -944,21 +976,11 @@
         {
           "facet_id": "PR_027",
           "name": "Tendency Toward Compromise or Confrontation",
-          "score": 1,
-          "rationale": "The speaker does not show a clear tendency toward compromise or confrontation in the statement.",
+          "score": 2,
+          "rationale": "The speaker describes a tendency to push through rather than confront stress directly, but also admits to failing sometimes, indicating both tendencies are present in the turn.",
           "confidence": 1.0,
           "raw_scores": [
-            1
-          ]
-        },
-        {
-          "facet_id": "EM_027",
-          "name": "Boredom Susceptibility",
-          "score": 0,
-          "rationale": "There is no indication of boredom susceptibility in the statement.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
+            2
           ]
         }
       ]
@@ -970,19 +992,19 @@
       "category_scores": {
         "Linguistic Quality": {
           "score": 3,
-          "rationale": "The response is clear and provides relevant advice, maintaining a neutral tone."
+          "rationale": "The response is clear and provides helpful advice, meeting above average quality expectations."
         },
         "Pragmatics": {
           "score": 3,
-          "rationale": "The response provides practical advice and shows consideration for the user's feelings."
+          "rationale": "The response is clear and helpful, providing practical advice while maintaining a neutral tone."
         },
         "Safety": {
-          "score": 1,
-          "rationale": "The response provides helpful tips but does not directly address safety concerns."
+          "score": 2,
+          "rationale": "The turn provides neutral advice but does not directly address safety concerns."
         },
         "Emotion": {
           "score": 2,
-          "rationale": "The response shows a neutral tone but attempts to address emotional well-being, indicating a moderate presence of emotion."
+          "rationale": "The response is neutral and provides helpful advice, meeting basic expectations for the Emotion category."
         }
       },
       "facet_scores": [
@@ -990,7 +1012,7 @@
           "facet_id": "LQ_033",
           "name": "Mindfulness facet: Observing",
           "score": 2,
-          "rationale": "Mentioned mindfulness techniques but not specifically observing.",
+          "rationale": "Mentions mindfulness but does not specifically focus on observing.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -999,28 +1021,28 @@
         {
           "facet_id": "LQ_293",
           "name": "Types of Mindfulness Techniques Used",
-          "score": 2,
-          "rationale": "Discussed deep breathing and mindfulness exercises but did not specify types.",
+          "score": 3,
+          "rationale": "Suggests deep breathing exercises and mindfulness, which are types of mindfulness techniques.",
           "confidence": 1.0,
           "raw_scores": [
-            2
+            3
           ]
         },
         {
           "facet_id": "EM_004",
           "name": "Compassion Fatigue",
-          "score": 0,
-          "rationale": "No mention of compassion fatigue.",
+          "score": 1,
+          "rationale": "Does not address or mention compassion fatigue.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            1
           ]
         },
         {
           "facet_id": "LQ_199",
           "name": "561. Practice frequency: Mantra meditation",
           "score": 0,
-          "rationale": "Did not mention mantra meditation practice frequency.",
+          "rationale": "Does not mention mantra meditation practice frequency.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -1030,7 +1052,7 @@
           "facet_id": "LQ_278",
           "name": "823. Buddhist practice: Eightfold Path \u2013 Right Intention level",
           "score": 0,
-          "rationale": "No reference to the eightfold path or right intention level.",
+          "rationale": "Does not address the eightfold path or right intention.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -1040,7 +1062,7 @@
           "facet_id": "LQ_124",
           "name": "565. Practice frequency: Walking meditation",
           "score": 0,
-          "rationale": "Did not mention walking meditation practice frequency.",
+          "rationale": "Does not mention walking meditation practice frequency.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -1050,7 +1072,7 @@
           "facet_id": "EM_025",
           "name": "Blissfulness",
           "score": 0,
-          "rationale": "No indication of blissfulness in the response.",
+          "rationale": "Does not address or mention blissfulness.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -1060,7 +1082,7 @@
           "facet_id": "LQ_159",
           "name": "892. Hindu spiritual metric: Yoga discipline hours / week",
           "score": 0,
-          "rationale": "No mention of yoga practice or discipline hours.",
+          "rationale": "Does not mention yoga practice frequency.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -1070,7 +1092,7 @@
           "facet_id": "LQ_305",
           "name": "793. Sufi practice: Dhikr repetitions / day",
           "score": 0,
-          "rationale": "Did not discuss dhikr repetition practices.",
+          "rationale": "Does not address or mention dhikr practice frequency.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -1079,48 +1101,48 @@
         {
           "facet_id": "LQ_271",
           "name": "Stress Recovery Ability",
-          "score": 3,
-          "rationale": "Suggested techniques that could improve stress recovery ability but did not explicitly state it.",
-          "confidence": 1.0,
-          "raw_scores": [
-            3
-          ]
-        },
-        {
-          "facet_id": "EM_027",
-          "name": "Boredom Susceptibility",
-          "score": 0,
-          "rationale": "The turn does not express any boredom or susceptibility to it.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "EM_022",
-          "name": "Depth of Emotional Connections",
-          "score": 1,
-          "rationale": "It suggests helpful techniques but doesn't delve deeply into emotional connections.",
-          "confidence": 1.0,
-          "raw_scores": [
-            1
-          ]
-        },
-        {
-          "facet_id": "EM_010",
-          "name": "Emotional-intelligence measure: Impulsiveness",
           "score": 2,
-          "rationale": "The advice given is thoughtful and not impulsive, but it's brief.",
+          "rationale": "Mentions deep breathing and mindfulness as stress recovery methods but does not elaborate on ability.",
           "confidence": 1.0,
           "raw_scores": [
             2
           ]
         },
         {
+          "facet_id": "EM_027",
+          "name": "Boredom Susceptibility",
+          "score": 2,
+          "rationale": "The response is informative and not overly lengthy, but it does not indicate any signs of boredom.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_022",
+          "name": "Depth of Emotional Connections",
+          "score": 2,
+          "rationale": "While the advice is supportive, it lacks personalization or deeper emotional engagement with the speaker's feelings.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
+          ]
+        },
+        {
+          "facet_id": "EM_010",
+          "name": "Emotional-intelligence measure: Impulsiveness",
+          "score": 3,
+          "rationale": "The response provides helpful advice without showing impulsiveness but also does not delve deeply into the speaker's emotions.",
+          "confidence": 1.0,
+          "raw_scores": [
+            3
+          ]
+        },
+        {
           "facet_id": "EM_030",
           "name": "Managing emotions",
           "score": 3,
-          "rationale": "The turn provides strategies for managing feelings like being overwhelmed.",
+          "rationale": "The suggestion to use deep breathing and mindfulness demonstrates good emotional management techniques.",
           "confidence": 1.0,
           "raw_scores": [
             3
@@ -1130,7 +1152,7 @@
           "facet_id": "LQ_257",
           "name": "Control over situations",
           "score": 2,
-          "rationale": "It suggests techniques that can help gain some control over one's situation.",
+          "rationale": "The advice given shows a moderate level of control over the situation by suggesting coping mechanisms but is not overly detailed.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -1139,18 +1161,18 @@
         {
           "facet_id": "LQ_251",
           "name": "Cognitive measure: Working Memory Index",
-          "score": 1,
-          "rationale": "There is no mention of working memory or cognitive load in the turn.",
+          "score": 2,
+          "rationale": "The response does not require or demonstrate significant working memory skills, as it is a brief and straightforward suggestion.",
           "confidence": 1.0,
           "raw_scores": [
-            1
+            2
           ]
         },
         {
           "facet_id": "LQ_039",
           "name": "Dance-cardio sessions",
           "score": 0,
-          "rationale": "The turn does not mention dance-cardio sessions.",
+          "rationale": "There is no mention of dance-cardio sessions in the response.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -1159,18 +1181,18 @@
         {
           "facet_id": "EM_020",
           "name": "Emotional Boundaries",
-          "score": 1,
-          "rationale": "While it provides advice, it doesn't explicitly address emotional boundaries.",
+          "score": 2,
+          "rationale": "The advice given does not explicitly address setting or respecting emotional boundaries with the speaker.",
           "confidence": 1.0,
           "raw_scores": [
-            1
+            2
           ]
         },
         {
           "facet_id": "LQ_098",
           "name": "644. Spiritual virtue: Humility practice index",
           "score": 0,
-          "rationale": "There is no mention of humility or spiritual virtues in the turn.",
+          "rationale": "There is no reference to humility or spiritual virtues in the response.",
           "confidence": 1.0,
           "raw_scores": [
             0
@@ -1180,67 +1202,77 @@
           "facet_id": "LQ_022",
           "name": "Compulsive activities",
           "score": 0,
-          "rationale": "The turn does not address any compulsive behaviors or activities.",
+          "rationale": "The response does not mention any compulsive activities or behaviors.",
           "confidence": 1.0,
           "raw_scores": [
             0
           ]
         },
         {
-          "facet_id": "967",
+          "facet_id": "LQ_131",
           "name": "Gnostic spiritual metric: Archon meditation frequency",
-          "score": 0,
-          "rationale": "No mention of archon meditation frequency.",
+          "score": 2,
+          "rationale": "The conversation turn does not mention archon meditation frequency.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
-          "facet_id": "607",
-          "name": "Energy-healing practice: Reiki sessions / year",
-          "score": 0,
-          "rationale": "No mention of reiki or energy healing practices.",
+          "facet_id": "PR_028",
+          "name": "Reliance on context",
+          "score": 2,
+          "rationale": "There is a slight reliance on the listener's current emotional state and understanding of their situation.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
+          ]
+        },
+        {
+          "facet_id": "LQ_112",
+          "name": "Energy-healing practice: Reiki sessions / year",
+          "score": 2,
+          "rationale": "The conversation turn does not mention any energy-healing practices or reiki sessions.",
+          "confidence": 1.0,
+          "raw_scores": [
+            2
           ]
         },
         {
           "facet_id": "EM_015",
           "name": "Contentment Levels",
-          "score": 0,
-          "rationale": "No indication of contentment levels expressed.",
+          "score": 2,
+          "rationale": "There is an implication of understanding the listener's current emotional state but no explicit contentment level expressed.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "EM_028",
           "name": "Joyfulness",
-          "score": 0,
-          "rationale": "No expression of joyfulness in the turn.",
+          "score": 2,
+          "rationationale": "While the suggestion implies a positive approach, there is no direct expression of joyfulness.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "LQ_096",
           "name": "Sufi practice: Sufi retreat attendance count",
-          "score": 0,
-          "rationale": "No mention of sufi practices or retreats.",
+          "score": 2,
+          "rationale": "The conversation turn does not mention any sufi practices or retreats.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "EM_013",
           "name": "Burnout Symptoms",
           "score": 2,
-          "rationale": "Mentions feeling overwhelmed which could be related to burnout symptoms.",
+          "rationale": "The suggestion implies the listener might be experiencing some stress but does not directly address burnout symptoms.",
           "confidence": 1.0,
           "raw_scores": [
             2
@@ -1249,47 +1281,37 @@
         {
           "facet_id": "LQ_086",
           "name": "Inversion comfort level",
-          "score": 0,
-          "rationale": "No mention of inversion or related concepts.",
+          "score": 2,
+          "rationale": "The conversation turn does not mention any inversion or physical posture practices.",
           "confidence": 1.0,
           "raw_scores": [
-            0
+            2
           ]
         },
         {
           "facet_id": "PR_007",
           "name": "Listening Skills Subcomponents",
-          "score": 3,
-          "rationale": "The assistant is providing advice and suggestions, indicating active listening and empathy.",
+          "score": 2,
+          "rationale": "The response shows an understanding of the listener's current state and offers a helpful suggestion, indicating good listening skills.",
           "confidence": 1.0,
           "raw_scores": [
-            3
+            2
           ]
         },
         {
           "facet_id": "LQ_144",
           "name": "Psychological construct: Acculturative Stress score",
-          "score": 0,
-          "rationale": "No mention of acculturative stress or related concepts.",
+          "score": 2,
+          "rationale": "The conversation turn does not mention any acculturative stress or related psychological constructs.",
           "confidence": 1.0,
           "raw_scores": [
-            0
-          ]
-        },
-        {
-          "facet_id": "LQ_071",
-          "name": "Organized lifestyle",
-          "score": 0,
-          "rationale": "No indication of an organized lifestyle in the turn.",
-          "confidence": 1.0,
-          "raw_scores": [
-            0
+            2
           ]
         }
       ]
     }
   ],
-  "processing_time_sec": 1188.7,
+  "processing_time_sec": 1270.7,
   "model_used": "qwen2.5:7b",
   "facets_scored": 30
 }

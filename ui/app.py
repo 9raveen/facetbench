@@ -185,6 +185,22 @@ with tab2:
             col3.metric("Highest Score", df["overall_score"].max())
             col4.metric("Lowest Score", df["overall_score"].min())
 
+            # Category summary from /benchmark/summary
+            st.divider()
+            st.subheader("Category Statistics")
+        try:
+            summary = httpx.get(f"{API_URL}/benchmark/summary", timeout=5).json()
+            cat_cols = st.columns(4)
+            for i, (cat, stats) in enumerate(summary["by_category"].items()):
+                with cat_cols[i]:
+                    st.metric(
+                        cat,
+                        f"{stats['mean']:.2f}",
+                        delta=f"std: {stats['std']:.2f}"
+                    )
+                    st.caption(f"min: {stats['min']} | max: {stats['max']}")
+        except:
+            pass
             st.divider()
 
             # Score distribution chart

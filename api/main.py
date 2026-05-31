@@ -102,6 +102,14 @@ def score_conversation_endpoint(request: ConversationRequest):
 
     mode = request.mode
 
+    # In deployed environments without Ollama, force synthetic
+    if mode in ["full", "fast", "langgraph"]:
+        try:
+            import httpx as _httpx
+            _httpx.get("http://localhost:11434/api/tags", timeout=2)
+        except:
+            mode = "synthetic"
+
     if mode == "full":
         from src.scoring.evaluator import score_conversation
         result = score_conversation(conv_dict, FACETS)
@@ -114,6 +122,7 @@ def score_conversation_endpoint(request: ConversationRequest):
     else:
         from src.scoring.synthetic_scorer import score_conversation_synthetic
         result = score_conversation_synthetic(conv_dict, FACETS)
+
     return ConversationScore(
         conversation_id=result["conversation_id"],
         topic=result.get("topic", ""),
